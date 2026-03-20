@@ -6,7 +6,7 @@ import { WiFiNeeded } from '@/lib/types';
 import { OptionButton } from '@/components/ui/OptionButton';
 import { StepTemplate } from './StepTemplate';
 
-const q = QUESTIONS.find((q) => q.step === 8)!;
+const q = QUESTIONS.find((q) => q.step === 7)!;
 
 export function Step8WiFi() {
   const { currentAnswer, setAnswer } = useWizardContext();
