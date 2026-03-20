@@ -1,4 +1,4 @@
-import { BudgetRange, DeploymentType, Product, ProductTier, UserCount } from '@/lib/types';
+import { DeploymentType, Product, ProductTier, UserCount } from '@/lib/types';
 
 export function getTierForDeployment(deploymentType: DeploymentType): ProductTier {
   return deploymentType; // they map 1:1
@@ -16,25 +16,6 @@ export function getTierLabel(tier: ProductTier): string {
 
 export function getDeploymentLabel(d: DeploymentType): string {
   return getTierLabel(d);
-}
-
-export function getBudgetLabel(range: BudgetRange): string {
-  const labels: Record<BudgetRange, string> = {
-    under500: 'under $500',
-    '500to1500': '$500–$1,500',
-    '1500to5000': '$1,500–$5,000',
-    '5000plus': '$5,000+',
-  };
-  return labels[range];
-}
-
-export function isWithinBudget(product: Product, budgetRange: BudgetRange): boolean {
-  switch (budgetRange) {
-    case 'under500': return product.priceUSD < 500;
-    case '500to1500': return product.priceUSD <= 1500;
-    case '1500to5000': return product.priceUSD <= 5000;
-    case '5000plus': return true;
-  }
 }
 
 export function getUserCapacityLabel(userCount: UserCount): string {

@@ -4,7 +4,6 @@ export type WANType = 'cellular_lte' | '5g' | 'dsl_cable' | 'fiber' | 'satellite
 export type CellularGen = 'lte_only' | '5g_needed';
 export type UserCount = 'under10' | '10to50' | '50to200' | '200plus';
 export type SpeedFusion = 'yes' | 'no' | 'not_sure';
-export type BudgetRange = 'under500' | '500to1500' | '1500to5000' | '5000plus';
 export type WiFiNeeded = 'yes' | 'no';
 export type ProductTier = 'mobile_vehicle' | 'home_soho' | 'medium_business' | 'enterprise';
 
@@ -15,7 +14,6 @@ export interface WizardAnswers {
   cellularGen?: CellularGen;
   userCount?: UserCount;
   speedFusion?: SpeedFusion;
-  budgetRange?: BudgetRange;
   wifiNeeded?: WiFiNeeded;
 }
 

@@ -1,11 +1,9 @@
 import { Product, RecommendationResult, WizardAnswers } from '@/lib/types';
 import { PRODUCTS } from '@/data/products';
 import {
-  getBudgetLabel,
   getDeploymentLabel,
   getTierForDeployment,
   getUserCapacityLabel,
-  isWithinBudget,
   productFitsUserCount,
 } from '@/lib/filterHelpers';
 
@@ -19,9 +17,6 @@ function applyHardFilters(products: Product[], answers: WizardAnswers): Product[
 
     // 5G required → must have 5G
     if (answers.cellularGen === '5g_needed' && !p.specs.cellular5G) return false;
-
-    // Budget hard ceiling
-    if (answers.budgetRange && !isWithinBudget(p, answers.budgetRange)) return false;
 
     return true;
   });
@@ -69,12 +64,6 @@ function scoreProduct(product: Product, answers: WizardAnswers): ScoredProduct {
     matchedReasons.push('supports 5G connectivity');
   }
 
-  // Budget fit (weight: 15)
-  if (answers.budgetRange && isWithinBudget(product, answers.budgetRange)) {
-    score += 15;
-    matchedReasons.push(`priced within your ${getBudgetLabel(answers.budgetRange)} budget`);
-  }
-
   // SpeedFusion needed (weight: 10)
   if (answers.speedFusion === 'yes' && product.specs.speedFusionCapable) {
     score += 10;
@@ -118,7 +107,6 @@ export function computeRecommendations(answers: WizardAnswers): RecommendationRe
   const filtered = applyHardFilters(PRODUCTS, answers);
 
   if (filtered.length === 0) {
-    // Fallback: relax budget filter and return top-scored overall
     const fallback = PRODUCTS.filter((p) => {
       if (answers.deploymentType && p.tier !== getTierForDeployment(answers.deploymentType)) return false;
       if (answers.cellularGen === '5g_needed' && !p.specs.cellular5G) return false;

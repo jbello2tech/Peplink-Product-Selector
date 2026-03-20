@@ -1,0 +1,887 @@
+Product Code,Product Name,Short Description ,List Price
+Peplink Balance Series ,Peplink Balance Series,,
+BPL-310-PRM,Balance 310,SME Grade Multi-Gigabit Dual WAN Router,$999.00
+PRM-C-1Y,1-Year PrimeCare,For Balance 310 - includes IC2 subscription,$149.00
+PRM-C-2Y,2-Year PrimeCare,For Balance 310 - includes IC2 subscription,$298.00
+PRM-C-4Y,4-Year PrimeCare,For Balance 310 - includes IC2 subscription,$596.00
+PCP-C-1Y,1-Year PrimeCare+,"For Balance 310 - includes IC2, 24/7 email ticket support, and AHR",$179.00
+PCP-C-2Y,2-Year PrimeCare+,"For Balance 310 - includes IC2, 24/7 email ticket support, and AHR",$304.00
+PCP-C-4Y,4-Year PrimeCare+,"For Balance 310 - includes IC2, 24/7 email ticket support, and AHR",$501.00
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN,$20.00 
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00 
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 2x OpenVPN WAN,$60.00 
+LIC-VWAN,Virtual WAN Activation License,Activate Virtual WAN for Selected Models. ,$200.00
+LIC-2VWAN,Virtual WAN Activation License,Activate 2x Virtual WAN for Selected Models. ,$400.00
+LIC-3VWAN,Virtual WAN Activation License,Activate 3x Virtual WAN for Selected Models. ,$600.00
+PVN-LC-20,SpeedFusion Peers License Key,Up to 50 SpeedFusion Peers,$999.00
+SFN-LC-50,SpeedFusion Peers License Key,Up to 50 SpeedFusion Peers,"$1,499.00"
+<Balance 310 Licenses & Warranties (click the + to open),,,
+BPL-310-5GH-R-T-PRM ,BPL 310 5G (FirstNet Certified),Enterprise SD-WAN router for Medium Branches (FirstNet Certified),"$1,999.00"
+BPL-310-FBR-5GH-T-PRM,BPL 310 Fiber 5G (FirstNet Certified),Enterprise SD-WAN router for Medium Branches (FirstNet Certified),"$1,999.00"
+PRM-E-1Y,1-Year PrimeCare,For Balance 310 5G - PrimeCare,$249.00 
+PRM-E-2Y,2-Year PrimeCare,For Balance 310 5G - PrimeCare,$498.00 
+PRM-E-4Y,4-Year PrimeCare,For Balance 310 5G - PrimeCare,$996.00 
+PCP-E-1Y,1-Year PrimeCare+,"For Balance 310 5G - includes IC2, 24/7 email ticket support, and AHR",$299.00 
+PCP-E-2Y,2-Year PrimeCare+,"For Balance 310 5G - includes IC2, 24/7 email ticket support, and AHR",$508.00 
+PCP-E-4Y,4-Year PrimeCare+,"For Balance 310 5G - includes IC2, 24/7 email ticket support, and AHR",$837.00 
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN,$20.00 
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00 
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 2x OpenVPN WAN,$60.00 
+LIC-VWAN,Virtual WAN Activation License,Activate Virtual WAN for Selected Models. ,$200.00
+LIC-2VWAN,Virtual WAN Activation License,Activate 2x Virtual WAN for Selected Models. ,$400.00
+LIC-3VWAN,Virtual WAN Activation License,Activate 3x Virtual WAN for Selected Models. ,$600.00
+<Balance 310 5G Licenses & Warranties (click the + to open),,,
+BPL-580,Balance 580,Mid-sized Business Router,"$3,999.00"
+FIPS-LC-B580,FIPS License,FIPS License for Balance 580,"$1,800.00"
+SFN-LC-100,100 SF Bonding Keys,≤ 100 SpeedFusion Bonding peers for Balance 380/580,$999.00
+ECP-BPL-580-1Y,1-Year EssentialCare+,"For Balance 580 - includes IC2 subscription, 24/7 email ticket support, and AHR",$999.00
+ECP-BPL-580-2Y,2-Year EssentialCare+,"For Balance 580 - includes IC2 subscription, 24/7 email ticket support, and AHR","$1,698.00"
+ECP-BPL-580-4Y,4-Year EssentialCare+,"For Balance 580 - includes IC2 subscription, 24/7 email ticket support, and AHR","$2,797.00"
+SVL-711,1-Year EssentialCare ,For Balance 580 - includes IC2 subscription,$679.00
+SVL-609,2-Year EssentialCare ,For Balance 580 - includes IC2 subscription,"$1,319.00"
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+<Balance 580 Licenses & Warranties (click the + to open),,,
+BPL-135,Balance 1350,Business Router for Enterprise,"$7,999.00"
+FIPS-LC-B1350,FIPS License,FIPS License for Balance 1350,"$3,600.00"
+ECP-BPL-135-1Y,1-Year EssentialCare+,"For Balance 1350 - includes IC2, 24/7 email ticket support, and AHR","$1,999.00"
+ECP-BPL-135-2Y,2-Year EssentialCare+,"For Balance 1350 - includes IC2, 24/7 email ticket support, and AHR","$3,398.00"
+ECP-BPL-135-4Y,4-Year EssentialCare+,"For Balance 1350 - includes IC2, 24/7 email ticket support, and AHR","$5,597.00"
+SVL-712,1-Year EssentialCare ,For Balance 1350 - includes IC2 subscription,"$1,359.00"
+SVL-611,2-Year EssentialCare ,For Balance 1350 - includes IC2 subscription,"$2,639.00"
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+<Balance 1350 Licenses & Warranties (click the + to open),,,
+BPL-1350-EC-PRM,Balance 1350 EC,Multi-WAN Router (8 GE Ports + 8 SFP Fiber Port) for Enterprise,"$8,499.00"
+PRM-P-1Y,1-Year PrimeCare,For DOM-PRO-LR-5GN-PRM - includes IC2 subscription,"$1,299.00 "
+PRM-P-2Y,2-Year PrimeCare,For DOM-PRO-LR-5GN-PRM - includes IC2 subscription,"$2,598.00 "
+PRM-P-4Y,4-Year PrimeCare,For DOM-PRO-LR-5GN-PRM - includes IC2 subscription,"$5,196.00 "
+PCP-P-1Y,1-Year PrimeCare+,"For DOM-PRO-LR-5GN-PRM - includes IC2, 24/7 email ticket support, and AHR","$1,559.00 "
+PCP-P-2Y,2-Year PrimeCare+,"For DOM-PRO-LR-5GN-PRM - includes IC2, 24/7 email ticket support, and AHR","$2,650.00 "
+PCP-P-4Y,4-Year PrimeCare+,"For DOM-PRO-LR-5GN-PRM - includes IC2, 24/7 email ticket support, and AHR","$4,365.00 "
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+LIC-VWAN,Virtual WAN Activation License,Activate 1x Virtual WAN,$200.00
+LIC-2VWAN,2x Virtual WAN Activation License,Activate 2x Virtual WAN,$400.00
+LIC-3VWAN,3x Virtual WAN Activation License,Activate 3x Virtual WAN,$600.00
+LIC-10VWAN-MD,10x Virtual WAN Activation License,Activate 10x Virtual WAN,"$2,000.00"
+<Balance 1350 EC Licenses & Warranties (click the + to open),,,
+BPL-2500,Balance 2500,"12x GE WAN, 8x GE LAN","$15,999.00"
+BPL-2500-SFP,Balance 2500 SFP,"12x GE WAN, 2x 10G SFP+ LAN","$15,999.00"
+BPL-2500-2SFP,Balance 2500 2SFP,"4x GE WAN, 2x 10G SFP+ WAN, 2x 10G SFP+ LAN","$15,999.00"
+BPL-2500-EC,Balance 2500 EC,"16x GE WAN/LAN, 4x 10G SFP+ WAN/LAN, 1x USB WAN","$18,999.00 "
+ECP-BPL-2500-1Y,1-Year EssentialCare+,"For Balance 2500 / 2500 EC - includes IC2, 24/7 email ticket support, and AHR","$3,999.00"
+ECP-BPL-2500-2Y,2-Year EssentialCare+,"For Balance 2500 / 2500 EC - includes IC2, 24/7 email ticket support, and AHR","$6,798.00"
+ECP-BPL-2500-4Y,4-Year EssentialCare+,"For Balance 2500 / 2500 EC - includes IC2, 24/7 email ticket support, and AHR","$11,197.00"
+SVL-730,1-Year EssentialCare ,For Balance 2500 / 2500 EC - includes IC2 subscription,"$2,719.00"
+SVL-612,2-Year EssentialCare ,For Balance 2500 / 2500 EC - includes IC2 subscription,"$5,279.00"
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+LIC-25VWAN-LG,Virtual WAN Activation License,Activate 25 x Virtual WAN for BPL-2500-EC,"$4,999.00"
+<Balance 2500 Licenses & Warranties (click the + to open),,,
+BPL-5000-EC-40G-PRM,Balance 5000 EC (40G),"Extreme Performance Multi-WAN Router 2x 1TB SSD, 70 Gbps throughput","$29,999.00"
+BPL-5000-EC-100G-PRM,Balance 5000 EC (100G),"Extreme Performance Multi-WAN Router 2x 1TB SSD, 110 Gbps throughput","$32,999.00"
+PRM-W-1Y,1-Year PrimeCare,For Balance 5000 EC - includes IC2 subscription,"$3,999.00"
+PRM-W-2Y,2-Year PrimeCare,For Balance 5000 EC - includes IC2 subscription,"$7,998.00"
+PRM-W-4Y,4-Year PrimeCare,For Balance 5000 EC - includes IC2 subscription,"$15,996.00"
+PCP-W-1Y,1-Year PrimeCare+,"For Balance 5000 EC - includes IC2, 24/7 email ticket support, and AHR","$4,799.00"
+PCP-W-2Y,2-Year PrimeCare+,"For Balance 5000 EC - includes IC2, 24/7 email ticket support, and AHR","$8,158.00"
+PCP-W-4Y,4-Year PrimeCare+,"For Balance 5000 EC - includes IC2, 24/7 email ticket support, and AHR","$13,437.00"
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+LIC-VWAN,Virtual WAN Activation License,Activate 1x Virtual WAN,$200.00
+LIC-2VWAN,2x Virtual WAN Activation License,Activate 2x Virtual WAN,$400.00
+LIC-3VWAN,3x Virtual WAN Activation License,Activate 3x Virtual WAN,$600.00
+LIC-10VWAN-MD,10x Virtual WAN Activation License,Activate 10x Virtual WAN,"$2,000.00"
+<Balance 2500 Licenses & Warranties (click the + to open),,,
+Peplink B Series ,,,
+B-ONE-T-PRM,B One,"Wi-Fi 6, Recommended for 1-150 users",$299.00
+B-ONE-PLUS-LTE-US-T-PRM,B One Plus,"Single Cellular CAT-4 LTE Mobile Router, Wi-Fi 6, Recommended for 1-150 users",$399.00
+B-ONE-5GN-T-PRM,B One 5G,"Single Cellular 5G Mobile Router, Wi-Fi 6, Recommended for 1-150 users",$599.00
+PRM-A-1Y,1-Year PrimeCare,For B One and B One Plus - includes IC2 subscription,$49.00
+PRM-A-2Y,2-Year PrimeCare,For B One and B One Plus - includes IC2 subscription,$98.00
+PRM-A-4Y,4-Year PrimeCare,For B One and B One Plus - includes IC2 subscription,$196.00
+PCP-A-1Y,1-Year PrimeCare+,"For B One and B One Plus - includes IC2, 24/7 email ticket support, and AHR",$59.00
+PCP-A-2Y,2-Year PrimeCare+,"For B One and B One Plus - includes IC2, 24/7 email ticket support, and AHR",$100.00
+PCP-A-4Y,4-Year PrimeCare+,"For B One and B One Plus - includes IC2, 24/7 email ticket support, and AHR",$165.00
+PRM-B-1Y,1-Year PrimeCare,For B One 5G - includes IC2 subscription,$99.00
+PRM-B-2Y,2-Year PrimeCare,For B One 5G - includes IC2 subscription,$198.00
+PRM-B-4Y,4-Year PrimeCare,For B One 5G - includes IC2 subscription,$396.00
+PCP-B-1Y,1-Year PrimeCare+,"For B One 5G -  includes IC2, 24/7 email ticket support, and AHR",$119.00
+PCP-B-2Y,2-Year PrimeCare+,"For B One 5G - includes IC2, 24/7 email ticket support, and AHR",$202.00
+PCP-B-4Y,4-Year PrimeCare+,"For B One 5G - includes IC2, 24/7 email ticket support, and AHR",$333.00
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+<B One Licenses & Warranties (click the + to open),,,
+MediaFast Caching Routers,,,
+MFA-500-B,MediaFast 500,Caching Router for School or Campus,"$5,999.00"
+MFA-500-LC-SF,SpeedFusion Bonding,SpeedFusion Bonding License Key for MFA-500,"$1,500.00"
+MFA-500-LC-LB,Load Balancing,Load Balancing License Key for MFA-500,$700.00
+ECP-MFA-500-1Y,1-Year EssentialCare+,"For MediaFast 500 - includes IC2, 24/7 email ticket support, and AHR","$1,499.00"
+ECP-MFA-500-2Y,2-Year EssentialCare+,"For MediaFast 500 - includes IC2, 24/7 email ticket support, and AHR","$2,548.00"
+ECP-MFA-500-4Y,4-Year EssentialCare+,"For MediaFast 500 - includes IC2, 24/7 email ticket support, and AHR","$4,197.00"
+SVL-773,1-Year EssentialCare ,For MediaFast 500 - includes IC2 subscription,"$1,019.00"
+SVL-673,2-Year EssentialCare ,For MediaFast 500 - includes IC2 subscription,"$1,979.00"
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+<MediaFast 500 Licenses & Warranties (click the + to open),,,
+MFA-750-B,MediaFast 750,Caching Router for School or Campus,"$7,999.00"
+ECP-MFA-750-1Y,1-Year EssentialCare+,"For MediaFast 750 - includes IC2, 24/7 email ticket support, and AHR","$1,999.00"
+ECP-MFA-750-2Y,2-Year EssentialCare+,"For MediaFast 750 - includes IC2, 24/7 email ticket support, and AHR","$3,398.00"
+ECP-MFA-750-4Y,4-Year EssentialCare+,"For MediaFast 750 - includes IC2, 24/7 email ticket support, and AHR","$5,597.00"
+SVL-779,1-Year EssentialCare ,For MediaFast 750 - includes IC2 subscription,"$1,359.00"
+SVL-679,2-Year EssentialCare ,For MediaFast 750 - includes IC2 subscription,"$2,639.00"
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+<MediaFast 750 Licenses & Warranties (click the + to open),,,
+MAX-HD2-MFA-LTEA-W-T,Peplink HD2 LTEA MF,LTEA Cellular Caching Router For Americas/EMEA,"$4,099.00"
+FIPS-LC-HD2-MFA,FIPS License,FIPS License for HD2-MFA,"$1,650.00"
+MFA-HD2-LC-SF,SpeedFusion Bonding Key,SpeedFusion Bonding License MAX HD2 MediaFast,"$1,000.00"
+ECP-MAX-HD2-MFA-LTEA-1Y,1-Year EssentialCare+,"For HD2 LTEA MediaFast - includes IC2, 24/7 email ticket support, and AHR",$999.00 
+ECP-MAX-HD2-MFA-LTEA-2Y,2-Year EssentialCare+,"For HD2 LTEA MediaFast - includes IC2, 24/7 email ticket support, and AHR","$1,698.00 "
+ECP-MAX-HD2-MFA-LTEA-4Y,4-Year EssentialCare+,"For HD2 LTEA MediaFast - includes IC2, 24/7 email ticket support, and AHR","$2,601 "
+SVL-434,1-Year EssentialCare ,For HD2 LTEA MediaFast - includes IC2 subscription,$699.00
+SVL-534,2-Year EssentialCare ,For HD2 LTEA MediaFast - includes IC2 subscription,"$1,299.00"
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+<HD2 MediaFast Licenses & Warranties (click the + to open),,,
+MAX-HD4-MFA-LTEA-W-T,Peplink HD4 LTEA MF,LTEA Cellular Caching Router For Americas/EMEA  ,"$6,999.00"
+FIPS-LC-HD4-MFA,FIPS License,FIPS License for HD4-MFA,"$2,700.00"
+MAX-HD4-LC-5WAN,WAN Port Activation ,5 WAN Port Activation License ,"$1,000.00"
+MFA-HD4-LC-SF,SpeedFusion Bonding Key,SpeedFusion Bonding License MAX HD4 MediaFast,"$1,300.00"
+MAX-HD-020-SPF,SpeedFusion 20 Peers,PepVPN/Speedfusion 20 Peers License,$999.00
+ECP-MAX-HD4-MFA-LTEA-1Y,1-Year EssentialCare+,"For HD4 LTEA MediaFast - includes IC2, 24/7 email ticket support, and AHR","$1,799.00"
+ECP-MAX-HD4-MFA-LTEA-2Y,2-Year EssentialCare+,"For HD4 LTEA MediaFast - includes IC2, 24/7 email ticket support, and AHR","$3,058.00"
+ECP-MAX-HD4-MFA-LTEA-4Y,4-Year EssentialCare+,"For HD4 LTEA MediaFast - includes IC2, 24/7 email ticket support, and AHR","$5,037.00"
+SVL-435,1-Year EssentialCare ,For HD4 LTEA MediaFast - includes IC2 subscription,"$1,199.00"
+SVL-535,2-Year EssentialCare ,For HD4 LTEA MediaFast - includes IC2 subscription,"$2,299.00"
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+<HD4 MediaFast Licenses & Warranties (click the + to open),,,
+Peplink Modular SD-WAN Platforms,,,
+EPX-M8,Barebone Chassis,EPX Chassis with LCD Module,"$19,999.00"
+ECP-EPX-M8-1Y,1-Year EssentialCare+,"For EPX  - includes IC2 subscription, 24/7 email ticket support, and AHR","$7,029.00"
+ECP-EPX-M8-2Y,2-Year EssentialCare+,"For EPX  - includes IC2 subscription, 24/7 email ticket support, and AHR","$11,949.00"
+ECP-EPX-M8-4Y,4-Year EssentialCare+,"For EPX  - includes IC2 subscription, 24/7 email ticket support, and AHR","$19,681.00"
+LIC-25VWAN-LG,Virtual WAN Activation License,For EPX,"$4,999.00"
+SVL-506,1-Year EssentialCare,For EPX  - includes IC2 subscription,"$3,600.00"
+SVL-508,2-Year EssentialCare,For EPX  - includes IC2 subscription,"$6,800.00"
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+<EPX Licenses & Warranties (click the + to open),,,
+BPL-SDX,Base SDX Platform,"2x GbE WAN, 2x 10GbE SFP, 8x GbE LAN, 2x USB WAN","$4,999.00"
+BPL-SDX-PRO-M2,Balance SDX Pro,"2x 1GbE WAN Ports, 2x 10GbE SFP WAN ports, 2x USB WAN","$6,499.00"
+BPL-SDX-PRO-M2-1TB,Balance SDX Pro - 1TB SSD,"2x 1GbE WAN Ports, 2x 10GbE SFP WAN ports, 2x USB WAN","$6,699.00"
+BPL-SDX-PRO-M2-2TB,Balance SDX Pro - 2TB SSD,"2x 1GbE WAN Ports, 2x 10GbE SFP WAN ports, 2x USB WAN","$7,099.00"
+SVL-494,1-Year EssentialCare,For Balance SDX  - includes IC2 subscription,$849.00
+SVL-503,2-Year EssentialCare,For Balance SDX  - includes IC2 subscription,"$1,649.00"
+ECP-BPL-SDX-1Y,1-Year EssentialCare+,"For Balance SDX  - includes IC2, 24/7 email ticket support, and AHR","$1,259.00"
+ECP-BPL-SDX-2Y ,2-Year EssentialCare+,"For Balance SDX - includes IC2, 24/7 email ticket support, and AHR","$2,140.00"
+ECP-BPL-SDX-4Y,4-Year EssentialCare+,"For Balance SDX - includes IC2, 24/7 email ticket support, and AHR","$3,525.00"
+SVL-BPL-SDX-PRO-M2-1Y,1-Year EssentialCare,For Balance SDX Pro  - includes IC2 subscription,"$1,109.00"
+SVL-BPL-SDX-PRO-M2-2Y,2-Year EssentialCare,For Balance SDX Pro  - includes IC2 subscription,"$2,149.00"
+ECP-BPL-SDX-PRO-M2-1Y,1-Year EssentialCare+,"For Balance SDX Pro - includes IC2, 24/7 email ticket support, and AHR","$1,629.00"
+ECP-BPL-SDX-PRO-M2-2Y,2-Year EssentialCare+,"For Balance SDX Pro - includes IC2, 24/7 email ticket support, and AHR","$2,769.00"
+ECP-BPL-SDX-PRO-M2-4Y,4-Year EssentialCare+,"For Balance SDX Pro - includes IC2, 24/7 email ticket support, and AHR","$4,561.00"
+SVL-BPL-SDX-PRO-M2-1TB-1Y,1-Year EssentialCare,For Balance SDX Pro - 1TB SSD  - includes IC2 subscription,"$1,139.00"
+SVL-BPL-SDX-PRO-M2-1TB-2Y,2-Year EssentialCare,For Balance SDX Pro - 1TB SSD  - includes IC2 subscription,"$2,219.00"
+ECP-BPL-SDX-PRO-M2-1TB-1Y,1-Year EssentialCare+,"For Balance SDX Pro - 1TB SSD - includes IC2, 24/7 email ticket support, and AHR","$1,679.00"
+ECP-BPL-SDX-PRO-M2-1TB-2Y,2-Year EssentialCare+,"For Balance SDX Pro - 1TB SSD - includes IC2, 24/7 email ticket support, and AHR","$2,854.00"
+ECP-BPL-SDX-PRO-M2-1TB-4Y,4-Year EssentialCare+,"For Balance SDX Pro - 1TB SSD - includes IC2, 24/7 email ticket support, and AHR","$4,701.00"
+SVL-BPL-SDX-PRO-M2-2TB-1Y,1-Year EssentialCare,For Balance SDX Pro - 2TB SSD  - includes IC2 subscription,"$1,207.00"
+SVL-BPL-SDX-PRO-M2-2TB-2Y,2-Year EssentialCare,For Balance SDX Pro - 2TB SSD  - includes IC2 subscription,"$2,349.00"
+ECP-BPL-SDX-PRO-M2-2TB-1Y,1-Year EssentialCare+,"For Balance SDX Pro - 2TB SSD - includes IC2, 24/7 email ticket support, and AHR","$1,779.00"
+ECP-BPL-SDX-PRO-M2-2TB-2Y,2-Year EssentialCare+,"For Balance SDX Pro - 2TB SSD - includes IC2, 24/7 email ticket support, and AHR","$3,024.00"
+ECP-BPL-SDX-PRO-M2-2TB-4Y,4-Year EssentialCare+,"For Balance SDX Pro - 2TB SSD - includes IC2, 24/7 email ticket support, and AHR","$4,981.00"
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+LIC-10VWAN-MD,Virtual WAN Activation License,Activate 10 x Virtual WAN for Selected Models. ,"$2,336.00 "
+<SDX Licenses & Warranties (click the + to open),,,
+EPX and SDX Modules,,,
+EXM-4LTEA-R,4 CAT 12 Modems (FirstNet Certified),Flex Module: CAT 12 LTEA Modems (FirstNet Certified),"$2,199.00"
+EXM-3LTEA-W,3 CAT LTEA Modems,Flex Module with 3 LTEA Modems ,"$1,499.00"
+EXM-4F,4 SFP+ Module,Flex Module with 4 SFP+ ports ,"$1,499.00"
+EXM-8C,8 GE Ethernet Module,Flex Module with 8 Gigabit Ethernet ports,"$1,499.00"
+EXM-2GLTE-G ,2 CAT 18 LTE Module,Flex Module with 2 CAT 18 LTE Modems ,"$1,699.00"
+EXM-LCDT,1TB MediaFast Module,1TB SSD / Includes LCD Module,"$1,999.00"
+EXM-SIM-BK56,FlexModule Plus SIM Injector,Expansion Module with 56 SIM slots,"$2,999.00"
+EXM-2X5GH,FlexModule Plus 2x 5G (FirstNet Certified),Expansion Module with 2x 5G Modules (FirstNet Certified),"$1,899.00"
+EPX-LC-MFA,MediaFast License Key,with Content Hub & Docker (requires LCD Module),"$1,499.00"
+SVL-EXM-4LTEA-1Y,1-Year EssentialCare ,For FlexModule Plus 4x LTEA,$379.00
+SVL-EXM-4LTEA-2Y,2-Year EssentialCare ,For FlexModule Plus 4x LTEA,$729.00
+SVL-507,1-Year EssentialCare ,for FlexModule Plus,$299.00
+SVL-509,2-Year EssentialCare ,for FlexModule Plus,$589.00
+ECP-EXM-1Y,1-Year EssentialCare+,for FlexModule Plus,$369.00
+ECP-EXM-2Y,2-Year EssentialCare+,for FlexModule Plus,$627.00
+ECP-EXM-4Y,4-Year EssentialCare+,for FlexModule Plus,"$1,033.00"
+SVL-EXM-SIM-BK56-1Y,1-Year EssentialCare ,for FlexModule Plus SIM Injector,$509.00
+SVL-EXM-SIM-BK56-2Y,2-Year EssentialCare ,for FlexModule Plus SIM Injector,$989.00
+ECP-EXM-SIM-BK56-1Y,1-Year EssentialCare+,for FlexModule Plus SIM Injector,$749.00
+ECP-EXM-SIM-BK56-2Y,2-Year EssentialCare+,for FlexModule Plus SIM Injector,"$1,273.00"
+ECP-EXM-SIM-BK56-4Y,4-Year EssentialCare+,for FlexModule Plus SIM Injector,"$2,097.00"
+SVL-EXM-2X5G-1Y,1-Year EssentialCare ,for FlexModule Plus 2x 5G,$359.00
+SVL-EXM-2X5G-2Y,2-Year EssentialCare ,for FlexModule Plus 2x 5G,$659.00
+ECP-EXM-2X5G-1Y,1-Year EssentialCare+,for FlexModule Plus 2x 5G,$469.00
+ECP-EXM-2X5G-2Y,2-Year EssentialCare+,for FlexModule Plus 2x 5G,$797.00
+ECP-EXM-2X5G-4Y,4-Year EssentialCare+,for FlexModule Plus 2x 5G,"$1,313.00"
+<EXM Licenses & Warranties (click the + to open),,,
+Peplink X Series Modular SD-WAN Platforms,,,
+BPL-310X-LTEA-R-T,BPL 310X CAT 12 (FirstNet Certified),Enterprise SD-WAN router for Medium Branches (FirstNet Certified),"$2,899.00"
+BPL-310X-GLTE-S-T,BPL 310X CAT 20,Enterprise SD-WAN router for Medium Branches,"$2,999.00"
+BPL-310X-5GH-T,Balance 310X 5G (FirstNet Certified),Advanced 5G Wireless SD-WAN Router (FirstNet Certified),"$3,999.00"
+ECP-BPL-310X-LTEA-1Y,1-Year EssentialCare+,"For Balance 310X (Cat 12  / Cat 20)  - includes IC2, 24/7 email support, and AHR",$719.00
+ECP-BPL-310X-LTEA-2Y,2-Year EssentialCare+,"For Balance 310X (Cat 12  / Cat 20)  - includes IC2, 24/7 email support, and AHR","$1,222.00"
+ECP-BPL-310X-LTEA-4Y,4-Year EssentialCare+,"For Balance 310X (Cat 12  / Cat 20)  - includes IC2, 24/7 email support, and AHR","$2,013.00"
+SVL-321 ,1-Year EssentialCare ,for Balance 310X (Cat 12 / Cat 20) - includes IC2 subscription,$499.00
+SVL-923 ,2-Year EssentialCare ,for Balance 310X (Cat 12 / Cat 20) - includes IC2 subscription,$959.00
+ECP-BPL-310X-5G-1Y,1-Year EssentialCare+,"for Balance 310X (5G) - includes IC2, 24/7 email ticket support, and AHR",$969.00
+ECP-BPL-310X-5G-2Y,2-Year EssentialCare+,"for Balance 310X (5G) - includes IC2, 24/7 email ticket support, and AHR","$1,647.00"
+ECP-BPL-310X-5G-4Y,4-Year EssentialCare+,"for Balance 310X (5G) - includes IC2, 24/7 email ticket support, and AHR","$2,713.00"
+SVL-BPL-310X-5G-1Y,1-Year EssentialCare,for Balance 310X (5G) - includes IC2 subscription,$649.00 
+SVL-BPL-310X-5G-2Y,2-Year EssentialCare,for Balance 310X (5G) - includes IC2 subscription,"$1,279.00 "
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+LIC-VWAN,1x Virtual WAN Activation License,For MAX HD2 Mini LTE,$200.00
+LIC-2VWAN,2x Virtual WAN Activation License,For MAX HD2 Mini LTE,$400.00
+LIC-3VWAN,3x Virtual WAN Activation License,For MAX HD2 Mini LTE,$600.00
+LIC-10VWAN-MD,Virtual WAN Activation License,Activate 10 x Virtual WAN for Selected Models. ,"$2,336.00 "
+SFN-LC-30,SpeedFusion Bonding Key,Enable up to 30 SpeedFusion Bonding peers,$999.00
+<310X Licenses & Warranties (click the + to open),,,
+BPL-580X,Balance 580X,Mid-sized Business Router,"$4,999.00"
+SFN-LC-100,100 SF Bonding Keys,≤ 100 SpeedFusion Bonding peers for Balance 380/580,$999.00
+ECP-BPL-580X-1Y,1-Year EssentialCare+,"For Balance 580X - includes IC2, 24/7 email ticket support, and AHR","$1,250.00"
+ECP-BPL-580X-2Y,2-Year EssentialCare+,"For Balance 580X - includes IC2, 24/7 email ticket support, and AHR","$2,125.00"
+ECP-BPL-580X-4Y,4-Year EssentialCare+,"For Balance 580X - includes IC2, 24/7 email ticket support, and AHR","$3,500.00"
+SVL-BPL-580X-1Y,1-Year EssentialCare ,For Balance 580X - includes IC2 subscription,$849.00
+SVL-BPL-580X-2Y,2-Year EssentialCare ,For Balance 580X - includes IC2 subscription,"$1,649.00"
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+<Balance 380X Licenses & Warranties (click the + to open),,,
+"X Series Modules for BPL-021X, BPL-380X, BPL-580X",,,
+EXM-MINI-1LTEA-R,1 CAT 12 FirstNet Modem (FirstNet Certified),Expansion Module with 1x CAT 12 modem For Americas/EMEA (FirstNet Cert.),$399.00
+EXM-MINI-1LTEA-K,1 CAT 12 Global Modem,Expansion Module with 1x CAT 12 modem For Global,$399.00
+EXM-MINI-1GLTE-G,1 CAT 18 Modem,Expansion Module with 1x CAT 18 modem For Americas/EMEA,$499.00
+EXM-MINI-1VDSL,1 VDSL Module,Expansion Module with 1 x VDSL,$199.00
+EXM-MINI-15GH,1 5G Modem (FirstNet Certified),FlexModule Mini 5G (FirstNet Certified),$699.00
+EXM-MINI-LORA,1 LoRaWAN Modem (for Balance 20X),FlexModule Mini LoRaWAN (Compatible with Balance 20X),$349.00
+SVL-517,1-Year EssentialCare,For FlexModule Mini (non 5G version) - includes IC2 subscription,$89.00
+SVL-536,2-Year EssentialCare,For FlexModule Mini (non 5G version) - includes IC2 subscription,$169.00
+SVL-EXM-MINI-5G-1Y,1-Year EssentialCare,For FlexModule Mini 5G - includes IC2 subscription,$119.00
+SVL-EXM-MINI-5G-2Y,2-Year EssentialCare,For FlexModule Mini 5G - includes IC2 subscription,$229.00
+ECP-C-1Y,1-Year EssentialCare+,"For FlexModule Mini (non 5G version) -  includes IC2, 24/7 email support, AHR",$129.00
+ECP-C-2Y,2-Year EssentialCare+,"For FlexModule Mini (non 5G version) -  includes IC2, 24/7 email support, AHR",$220.00
+ECP-C-4Y,4-Year EssentialCare+,"For FlexModule Mini (non 5G version) -  includes IC2, 24/7 email support, AHR",$362.00
+ECP-D-1Y,1-Year EssentialCare+,"For FlexModule Mini 5G -  includes IC2, 24/7 email ticket support, and AHR",$199.00
+ECP-D-2Y,2-Year EssentialCare+,"For FlexModule Mini 5G -  includes IC2, 24/7 email ticket support, and AHR",$339.00
+ECP-D-4Y,4-Year EssentialCare+,"For FlexModule Mini 5G -  includes IC2, 24/7 email ticket support, and AHR",$558.00
+<EXM Licenses & Warranties (click the + to open),,,
+Peplink MAX BR Cellular Routers,,,
+MAX-BR1-MINI-LTE-US-T-PRM,MAX BR1 Mini LTE (FirstNet Certified),Single Cellular Cat 4 Router - PrimeCare (FirstNet Certified),$349.00
+MAX-BR1-MINI-LTE-US-T-M-PRM,MAX BR1 Mini Core (No WiFi/GPS),"Single Cellular Cat 4 -  No WiFi, No GPS",$299.00
+MAX-BR1-MINI-LTEA-US-T-PRM,MAX BR1 Mini LTEA (FirstNet Certified),Single Cellular Cat 7 Router - PrimeCare (FirstNet Certified),$399.00
+MAX-BR1-MINI-LTEA-US-DC-T-PRM,MAX BR1 Mini LTEA (DC Power),Single Cellular Cat 7 Router - PrimeCare (FirstNet Certified),$399.00
+MAX-BR1-MINI-M2M-LTE-US-T-PRM,MAX BR1 Mini M2M,Single Cellular Cat 4 - 9-pin serial connector / WiFi / GPS,$399.00
+MAX-BR1-MINI-5GN-T-M-PRM,MAX BR1 Mini 5G (No WiFi/GPS),"Single Cellular 5G Mobile Router - No WiFi, No GPS",$499.00
+MAX-BR1-MINI-5GN-T-PRM,MAX BR1 Mini 5G with WiFi (No GPS),Single Cellular 5G Mobile Router / WiFi / No GPS,$549.00
+MAX-BR1-MINI-LTE-MX-T-PRM,MAX BR1 Mini LTE (Latin America),Single Cellular Cat 4 Router - PrimeCare (Latin America),$349.00
+MAX-BR2-MICRO-LTE-US-PRM,MAX BR2 Micro LTE,2x Embedded 2x CAT-4 LTE Modems,$599.00
+PRM-A-1Y,1-Year PrimeCare,For MAX BR1 Mini HW3 and BR1 Mini 5G - includes IC2 subscription,$49.00
+PRM-A-2Y,2-Year PrimeCare,For MAX BR1 Mini HW3 and BR1 Mini 5G - includes IC2 subscription,$98.00
+PRM-A-4Y,4-Year PrimeCare,For MAX BR1 Mini HW3 and BR1 Mini 5G - includes IC2 subscription,$196.00
+PCP-A-1Y,1-Year PrimeCare+,"For MAX BR1 Mini HW3 and BR1 Mini 5G - includes IC2, 24/7 email ticket support, AHR",$59.00
+PCP-A-2Y,2-Year PrimeCare+,"For MAX BR1 Mini HW3 and BR1 Mini 5G - includes IC2, 24/7 email ticket support, AHR",$100.00
+PCP-A-4Y,4-Year PrimeCare+,"For MAX BR1 Mini HW3 and BR1 Mini 5G - includes IC2, 24/7 email ticket support, AHR",$165.00
+MAX-BR1-MINI-LC-FP,Feature Pack for BR1 Mini,"Wan Activation, Wifi Wan, Hot Failover WNA, GPIO",$99.00
+MAX-BR1-MINI-BD-FP-2Y,Bundle Offer,Upfront add-on (Includes 2 Years of Primecare and MAX-BR1-MINI-FP),$98.00
+MAX-BR1-MINI-BD-FP-4Y,Bundle Offer,Upfront add-on (Includes 4 Years of Primecare and MAX-BR1-MINI-FP),$150.00
+MAX-BR1-MINI-BD-FP-PLUS-2Y,Bundle Offer,Upfront add-on (Includes 2 Years of Primecare Plus and MAX-BR1-MINI-FP),$118.00
+MAX-BR1-MINI-BD-FP-PLUS-4Y,Bundle Offer,Upfront add-on (Includes 4 Years of Primecare Plus and MAX-BR1-MINI-FP),$190.00
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+LIC-VWAN,Virtual WAN Activation License,Activate Virtual WAN for Selected Models. ,$200.00
+<BR1 Mini Licenses & Warranties (click the + to open),,,
+MAX-BR1-PRO-GLTE-S-T-PRM,MAX BR1 Pro LTEA,Single Cellular Cat 20 Mobile Router,$699.00
+MAX-BR2-LTE-US-T-PRM,MAX BR2 LTE,2x Embedded CAT 4 LTE Modems,$599.00
+MAX-BR2-LTEA-US-T-PRM,MAX BR2 LTEA,2x Embedded CAT-7 LTEA Modems – North America,$699.00
+MAX-BR1-PRO-5GN-T-PRM,MAX BR1 Pro 5G (FirstNet Certified),Single Cellular 5G Mobile Router – North America,$999.00
+MAX-BR1-PRO-5GK-T-PRM,MAX BR1 Pro 5G (FirstNet Certified),Single Cellular 5G Mobile Router – North America (POE input capability),$999.00
+MAX-BR2-PRO-5GK-T-PRM,MAX BR2 Pro 5G (FirstNet Certified),2x Embedded 5G Modems – North America (FirstNet Certified),"$2,899.00"
+PRM-B-1Y,1-Year PrimeCare,For MAX BR1 PRO CAT 20 and BR2 LTE - includes IC2 subscription,$99.00
+PRM-B-2Y,2-Year PrimeCare,For MAX BR1 PRO CAT 20 and BR2 LTE - includes IC2 subscription,$198.00
+PRM-B-4Y,4-Year PrimeCare,For MAX BR1 PRO CAT 20 and BR2 LTE - includes IC2 subscription,$396.00
+PCP-B-1Y,1-Year PrimeCare+,"For MAX BR1 PRO CAT 20 and BR2 LTE -  includes IC2, 24/7 email ticket support, and AHR",$119.00
+PCP-B-2Y,2-Year PrimeCare+,"For MAX BR1 PRO CAT 20 and BR2 LTE - includes IC2, 24/7 email ticket support, and AHR",$202.00
+PCP-B-4Y,4-Year PrimeCare+,"For MAX BR1 PRO CAT 20 and BR2 LTE -  includes IC2, 24/7 email ticket support, and AHR",$333.00
+PRM-C-1Y,1-Year PrimeCare,For MAX BR1 Pro 5G - includes IC2 subscription,$149.00
+PRM-C-2Y,2-Year PrimeCare,For MAX BR1 Pro 5G - includes IC2 subscription,$298.00
+PRM-C-4Y,4-Year PrimeCare,For MAX BR1 Pro 5G - includes IC2 subscription,$596.00
+PCP-C-1Y,1-Year PrimeCare+,"For MAX BR1 Pro 5G - includes IC2, 24/7 email ticket support, and AHR",$179.00
+PCP-C-2Y,2-Year PrimeCare+,"For MAX BR1 Pro 5G - includes IC2, 24/7 email ticket support, and AHR",$304.00
+PCP-C-4Y,4-Year PrimeCare+,"For MAX BR1 Pro 5G - includes IC2, 24/7 email ticket support, and AHR",$501.00
+PRM-E-1Y,1-Year PrimeCare,For MAX BR2 Pro 5G - includes IC2 subscription,$249.00 
+PRM-E-2Y,2-Year PrimeCare,For MAX BR2 Pro 5G - includes IC2 subscription,$498.00 
+PRM-E-4Y,4-Year PrimeCare,For MAX BR2 Pro 5G - includes IC2 subscription,$996.00 
+PCP-E-1Y,1-Year PrimeCare+,"For MAX BR2 Pro 5G - includes IC2, 24/7 email ticket support, and AHR",$299.00 
+PCP-E-2Y,2-Year PrimeCare+,"For MAX BR2 Pro 5G - includes IC2, 24/7 email ticket support, and AHR",$508.00 
+PCP-E-4Y,4-Year PrimeCare+,"For MAX BR2 Pro 5G - includes IC2, 24/7 email ticket support, and AHR",$837.00 
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+LIC-VWAN,Virtual WAN Activation License,Activate Virtual WAN for Selected Models. ,$200.00
+LIC-2VWAN,Virtual WAN Activation License,Activate 2x Virtual WAN for Selected Models. ,$400.00
+LIC-3VWAN,Virtual WAN Activation License,Activate 3x Virtual WAN for Selected Models. ,$600.00
+<BR Pro Licenses & Warranties (click the + to open),,,
+Peplink Transit Series Cellular Routers,,,
+MAX-TST-PRO-DUO-LTEA-Q-T-PRM,MAX Transit Duo Pro (FirstNet Certified),For the Americas / EMEA - PrimeCare (FirstNet Certified),"$1,199.00"
+PRM-D-1Y,1-Year PrimeCare,For MAX Transit Duo Line - includes IC2 subscription,$199.00
+PRM-D-2Y,2-Year PrimeCare,For MAX Transit Duo Line - includes IC2 subscription,$398.00
+PRM-D-4Y,4-Year PrimeCare,For MAX Transit Duo Line - includes IC2 subscription,$796.00
+PCP-D-1Y,1-Year PrimeCare+,"For MAX Transit Duo Line - includes IC2, 24/7 email ticket support, and AHR",$239.00
+PCP-D-2Y,2-Year PrimeCare+,"For MAX Transit Duo Line - includes IC2, 24/7 email ticket support, and AHR",$406.00
+PCP-D-4Y,4-Year PrimeCare+,"For MAX Transit Duo Line - includes IC2, 24/7 email ticket support, and AHR",$669.00
+MAX-TST-PRO-DUO-BD-SP-2Y,2-Year Bundle Offer,2.5TB SFC Protect / 30GB SFC 5G/LTE data / 2 Years of Prime Care,$398.00
+MAX-TST-PRO-DUO-BD-SP-4Y,4-Year Bundle Offer,2.5TB SFC Protect / 30GB SFC 5G/LTE data / 4 Years of Prime Care,$696.00
+SFC-CN-SP,SpeedFusion Connect Pack,2.5TB SFC Protect / 30GB SFC 5G/LTE data / Valid 365 days,$199.00
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+<Peplink Transit Duo Licenses & Warranties (click the + to open),,,
+Peplink MAX HD Multi-Cellular Routers,,,
+MAX-HD2-MINI-LTE-MX-T,MAX HD2 Mini LTEA Latin America,"For Latin America - 2x Embedded 4G LTE Modem, 4x WAN, 1x USB, 1x Ethernet","$2,299.00"
+SVL-761,1-Year EssentialCare,For MAX HD2 Mini LTE - includes IC2 subscription,$399.00
+SVL-643,2-Year EssentialCare,For MAX HD2 Mini LTE - includes IC2 subscription,$759.00
+ECP-MAX-HD2-MINI-LTE-1Y,1-Year EssentialCare+,"For MAX HD2 Mini LTE - includes IC2, 24/7 email ticket support, and AHR",$579.00
+ECP-MAX-HD2-MINI-LTE-2Y,2-Year EssentialCare+,"For MAX HD2 Mini LTE - includes IC2, 24/7 email ticket support, and AHR",$984.00
+ECP-MAX-HD2-MINI-LTE-4Y,4-Year EssentialCare+,"For MAX HD2 Mini LTE - includes IC2, 24/7 email ticket support, and AHR","$1,621.00"
+ICS-B04-1Y,1-Year InControl 2 Subscription,For MAX HD2 Mini LTE,$269.00
+AP-LC-50,50 AP Support License Key ,For MAX HD2 Mini LTE,$199.00
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+LIC-VWAN,1x Virtual WAN Activation License,For MAX HD2 Mini LTE,$200.00
+LIC-2VWAN,2x Virtual WAN Activation License,For MAX HD2 Mini LTE,$400.00
+LIC-3VWAN,3x Virtual WAN Activation License,For MAX HD2 Mini LTE,$600.00
+<Peplink HD2 Mini LTE Licenses & Warranties (click the + to open),,,
+MAX-HD2-MINI-LTEA-W-T,MAX HD2 Mini LTEA ,For the Americas / EMEA,"$2,699.00"
+ECP-MAX-HD2-MINI-LTEA-1Y,1-Year EssentialCare+,"For MAX HD2 Mini LTEA - includes IC2, 24/7 email ticket support, and AHR",$679.00
+ECP-MAX-HD2-MINI-LTEA-2Y,2-Year EssentialCare+,"For MAX HD2 Mini LTEA - includes IC2, 24/7 email ticket support, and AHR","$1,154.00"
+ECP-MAX-HD2-MINI-LTEA-4Y,4-Year EssentialCare+,"For MAX HD2 Mini LTEA - includes IC2, 24/7 email ticket support, and AHR","$1,901.00"
+SVL-431,1-Year EssentialCare,For MAX HD2 Mini LTEA - includes IC2 subscription,$459.00
+SVL-531,2-Year EssentialCare,For MAX HD2 Mini LTEA - includes IC2 subscription,$899.00
+MAX-HD-020-SPF,20 Peer SF License,Up to 20 SpeedFusion Peers,$999.00
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+<Peplink HD2 Mini LTEA Licenses & Warranties (click the + to open),,,
+Peplink MAX HD MBX Multi-Cellular Routers,,,
+MAX-HD2-MBX-LTEA-R-T ,MAX HD2 MBX CAT 12,2 CAT 12 Modems / 5G Upgradable ,"$5,999.00 "
+MAX-HD2-MBX-GLTE-G-T,MAX HD2 MBX CAT 18,2 CAT 18 Modems / 5G Upgradable ,"$6,999.00"
+MAX-HD2-MBX-5GH-T,MAX HD2 MBX 5G,2x Embedded 5G Modem (Global),"$9,999.00"
+SVL-MAX-HD2-MBX-LTEA-RK-1Y,1-Year EssentialCare,for MAX HD2 MBX LTEA (CAT-12) - includes IC2 subscription,"$1,019.00"
+SVL-MAX-HD2-MBX-LTEA-RK-2Y,2-Year EssentialCare,for MAX HD2 MBX LTEA (CAT-12) - includes IC2 subscription,"$1,979.00"
+ECP-MAX-HD2-MBX-LTEA-RK-1Y,1-Year EssentialCare+,"for MAX HD2 MBX LTEA (CAT-12) - includes IC2, 24/7 email support, and AHR","$1,499.00"
+ECP-MAX-HD2-MBX-LTEA-RK-2Y,2-Year EssentialCare+,"for MAX HD2 MBX LTEA (CAT-12) - includes IC2, 24/7 email support, and AHR","$2,548.00"
+ECP-MAX-HD2-MBX-LTEA-RK-4Y,4-Year EssentialCare+,"for MAX HD2 MBX LTEA (CAT-12) - includes IC2, 24/7 email support, and AHR","$4,197.00"
+ECP-MAX-HD2-MBX-GLTE-G-1Y,1-Year EssentialCare+,"for MAX HD2 MBX LTEA (CAT 18) - includes IC2, 24/7 email support, and AHR","$1,749.00"
+ECP-MAX-HD2-MBX-GLTE-G-2Y,2-Year EssentialCare+,"for MAX HD2 MBX LTEA (CAT 18) - includes IC2, 24/7 email support, and AHR","$2,973.00"
+ECP-MAX-HD2-MBX-GLTE-G-4Y,4-Year EssentialCare+,"for MAX HD2 MBX LTEA (CAT 18) - includes IC2, 24/7 email support, and AHR","$4,897.00"
+SVL-721,1-Year EssentialCare,for MAX HD2 MBX LTEA (CAT 18) - includes IC2 subscription,"$1,190.00"
+SVL-710,2-Year EssentialCare,for MAX HD2 MBX LTEA (CAT 18) - includes IC2 subscription,"$2,310.00"
+SVL-MAX-HD2-MBX-5G-1Y,1-Year EssentialCare,for MAX HD2 MBX LTEA (5G) - includes IC2 subscription,"$1,699.00"
+SVL-MAX-HD2-MBX-5G-2Y,2-Year EssentialCare,for MAX HD2 MBX LTEA (5G) - includes IC2 subscription,"$3,299.00"
+ECP-MAX-HD2-MBX-5G-1Y,1-Year EssentialCare+,"for MAX HD2 MBX LTEA (5G) - includes IC2, 24/7 email ticket support, and AHR","$1,819.00"
+ECP-MAX-HD2-MBX-5G-2Y,2-Year EssentialCare+,"for MAX HD2 MBX LTEA (5G) - includes IC2, 24/7 email ticket support, and AHR","$3,092.00"
+ECP-MAX-HD2-MBX-5G-4Y,4-Year EssentialCare+,"for MAX HD2 MBX LTEA (5G) - includes IC2, 24/7 email ticket support, and AHR","$5,093.00"
+MAX-HD-020-SPF,20 Peer SF License,Up to 20 SpeedFusion Peers,$999.00
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+LIC-VWAN,1x Virtual WAN Activation License,For MAX HD2 Mini LTE,$200.00
+LIC-2VWAN,2x Virtual WAN Activation License,For MAX HD2 Mini LTE,$400.00
+LIC-3VWAN,3x Virtual WAN Activation License,For MAX HD2 Mini LTE,$600.00
+LIC-10VWAN-MD,Virtual WAN Activation License,Activate 10 x Virtual WAN for Selected Models. ,"$2,336.00 "
+<Peplink HD2-MBX Licenses & Warranties (click the + to open),,,
+MAX-HD4-MBX-LTEA-R-T ,MAX HD4 MBX (FirstNet Certified),Quad 4G LTE-A Pro Mobile Powerhouse (FirstNet Certified),"$7,999.00"
+MAX-HD4-MBX-GLTE-S-T ,MAX HD4 MBX CAT 20,4x CAT20 Modems,"$9,999.00"
+MAX-HD4-MBX-LTEA-K-T ,MAX HD4 MBX LTEA,Quad 4G LTE-A Pro Mobile Powerhouse ,"$7,999.00"
+MAX-HD4-MBX-5GN-T,MAX HD4 MBX 5G,4x 5G Modems (Global),"$11,999.00"
+MAX-HD4-MBX-5GK-T,MAX HD4 MBX 5G,4x 5G Modems (North America),"$11,999.00"
+ECP-MAX-HD4-MBX-LTEA-1Y,1-Year EssentialCare+,"For MAX HD4 MBX LTEA - includes IC2, 24/7 email ticket support, and AHR","$1,999.00"
+ECP-MAX-HD4-MBX-LTEA-2Y,2-Year EssentialCare+,"For MAX HD4 MBX LTEA - includes IC2, 24/7 email ticket support, and AHR","$3,398.00"
+ECP-MAX-HD4-MBX-LTEA-4Y,4-Year EssentialCare+,"For MAX HD4 MBX LTEA - includes IC2, 24/7 email ticket support, and AHR","$5,597.00"
+SVL-497,1-Year EssentialCare,For MAX HD4 MBX LTEA - includes IC2 subscription,"$1,359.00"
+SVL-549,2-Year EssentialCare,For MAX HD4 MBX LTEA - includes IC2 subscription,"$2,639.00"
+ECP-MAX-HD4-MBX-GLTE-G-1Y,1-Year EssentialCare+,"For MAX HD4 MBX LTEA (CAT 20) - includes IC2, 24/7 email support, and AHR","$2,499.00"
+ECP-MAX-HD4-MBX-GLTE-G-2Y,2-Year EssentialCare+,"For MAX HD4 MBX LTEA (CAT 20) - includes IC2, 24/7 email support, and AHR","$4,248.00"
+ECP-MAX-HD4-MBX-GLTE-G-4Y,4-Year EssentialCare+,"For MAX HD4 MBX LTEA (CAT 20) - includes IC2, 24/7 email support, and AHR","$6,997.00"
+SVL-510 ,1-Year EssentialCare,For MAX HD4 MBX LTEA (CAT 20) - includes IC2 subscription,"$1,699.00"
+SVL-708 ,2-Year EssentialCare,For MAX HD4 MBX LTEA (CAT 20) - includes IC2 subscription,"$3,299.00"
+SVL-MAX-HD4-MBX-5G-1Y,1-Year EssentialCare,For MAX HD4 MBX 5G - includes IC2 subscription,"$2,279.00"
+SVL-MAX-HD4-MBX-5G-2Y,2-Year EssentialCare,For MAX HD4 MBX 5G - includes IC2 subscription,"$4,199.00"
+ECP-MAX-HD4-MBX-5G-1Y,1-Year EssentialCare+,"For MAX HD4 MBX 5G - includes IC2, 24/7 email ticket support, and AHR","$2,999.00"
+ECP-MAX-HD4-MBX-5G-2Y,2-Year EssentialCare+,"For MAX HD4 MBX 5G - includes IC2, 24/7 email ticket support, and AHR","$5,098.00"
+ECP-MAX-HD4-MBX-5G-4Y,4-Year EssentialCare+,"For MAX HD4 MBX 5G - includes IC2, 24/7 email ticket support, and AHR","$8,397.00"
+MAX-HD-020-SPF,20 Peer SF License,Up to 20 SpeedFusion Peers,$999.00
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+LIC-VWAN,1x Virtual WAN Activation License,For MAX HD2 Mini LTE,$200.00
+LIC-2VWAN,2x Virtual WAN Activation License,For MAX HD2 Mini LTE,$400.00
+LIC-3VWAN,3x Virtual WAN Activation License,For MAX HD2 Mini LTE,$600.00
+LIC-10VWAN-MD,Virtual WAN Activation License,Activate 10 x Virtual WAN for Selected Models. ,"$2,336.00 "
+<Peplink HD4 MBX Licenses & Warranties (click the + to open),,,
+MAX-MBX-MINI-5GH-T,MAX MBX Mini,2x Embedded 5G Modem (Americas),"$6,999.00"
+MAX-MBX-MINI-5GD-T,MAX MBX Mini,2x Embedded 5G Modem (Global),"$6,999.00"
+SVL-MAX-MBX-MINI-5G-1Y,1-Year EssentialCare,For MBX Mini - includes IC2 subscription,"$1,189.00"
+SVL-MAX-MBX-MINI-5G-2Y,2-Year EssentialCare,For MBX Mini - includes IC2 subscription,"$2,309.00"
+ECP-MAX-MBX-MINI-5G-1Y,1-Year EssentialCare+,"For MBX Mini - includes IC2 subscription, 24/7 email ticket support, and AHR","$1,749.00"
+ECP-MAX-MBX-MINI-5G-2Y,2-Year EssentialCare+,"For MBX Mini - includes IC2 subscription, 24/7 email ticket support, and AHR","$2,973.00"
+ECP-MAX-MBX-MINI-5G-4Y,4-Year EssentialCare+,"For MBX Mini - includes IC2 subscription, 24/7 email ticket support, and AHR","$4,897.00"
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+LIC-VWAN,1x Virtual WAN Activation License,For MAX HD2 Mini LTE,$200.00
+LIC-2VWAN,2x Virtual WAN Activation License,For MAX HD2 Mini LTE,$400.00
+LIC-3VWAN,3x Virtual WAN Activation License,For MAX HD2 Mini LTE,$600.00
+LIC-10VWAN-MD,Virtual WAN Activation License,Activate 10 x Virtual WAN for Selected Models. ,"$2,336.00 "
+PVN-LC-05,SpeedFusion Peers License Key,Up to 5 PepVPN,$99.00
+PVN-LC-10,SpeedFusion Peers License Key,Up to 10 PepVPN,$199.00
+PVN-LC-20,SpeedFusion Peers License Key,Up to 20 PepVPN,$999.00
+<Peplink HD4 MBX Licenses & Warranties (click the + to open),,,
+Peplink MAX HD MBX Expansion Modules,,,
+EXM-MBX-T2-5GH,HD2 MBX 5G Expansion Module,2x 5G modems Compatible with HD2 MBX  ,"$2,999.00"
+EXM-MBX-T4-5GH,HD4 MBX 5G Expansion Module,4x 5G modems Compatible with HD4 MBX ,"$4,999.00"
+EXM-MBX-T4-5GN,HD4 MBX 5G Expansion Module,4x 5G modems Compatible with HD4 MBX ,"$4,999.00"
+SVL-EXM-MBX-T2-5G-1Y,1-Year EssentialCare,For MBX Expansion Module with 2x 5G Modems - includes IC2 subscription,$569.00
+SVL-EXM-MBX-T2-5G-2Y,2-Year EssentialCare,For MBX Expansion Module with 2x 5G Modems - includes IC2 subscription,"$1,049.00"
+SVL-EXM-MBX-T4-5G-1Y,1-Year EssentialCare,For MBX Expansion Module with 4x 5G Modems - includes IC2 subscription,$949.00
+SVL-EXM-MBX-T4-5G-2Y,2-Year EssentialCare,For MBX Expansion Module with 4x 5G Modems - includes IC2 subscription,"$1,749.00"
+ECP-EXM-MBX-T2-5G-1Y,1-Year EssentialCare+,"For MBX Expansion Module w/ 2x 5G Modems - incl. IC2, 24/7 email support, AHR",$719.00
+ECP-EXM-MBX-T2-5G-2Y,2-Year EssentialCare+,"For MBX Expansion Module w/ 2x 5G Modems - incl. IC2, 24/7 email support, AHR","$1,222.00"
+ECP-EXM-MBX-T2-5G-4Y,4-Year EssentialCare+,"For MBX Expansion Module w/ 2x 5G Modems - incl. IC2, 24/7 email support, AHR","$2,013.00"
+ECP-EXM-MBX-T4-5G-1Y,1-Year EssentialCare+,"For MBX Expansion Module w/ 4x 5G Modems - incl. IC2, 24/7 email support, AHR","$1,199.00"
+ECP-EXM-MBX-T4-5G-2Y,2-Year EssentialCare+,"For MBX Expansion Module w/ 4x 5G Modems - incl. IC2, 24/7 email support, AHR","$2,038.00"
+ECP-EXM-MBX-T4-5G-4Y,4-Year EssentialCare+,"For MBX Expansion Module w/ 4x 5G Modems - incl. IC2, 24/7 email support, AHR","$3,357.00"
+<MBX Module Licenses & Warranties (click the + to open),,,
+Peplink Specialty Products,,,
+POTS-ADP-LTE-US-T-PRM,POTS Adapter,"1x 4G LTE Modem (US/ CAT-4), RJ11 Ports For POTS equipment, Full antenna set",$299.00
+PRM-A-1Y,1-Year PrimeCare,For POTS Adapter - includes IC2 subscription,$49.00
+PRM-A-2Y,2-Year PrimeCare,For POTS Adapter - includes IC2 subscription,$98.00
+PRM-A-4Y,4-Year PrimeCare,For POTS Adapter - includes IC2 subscription,$196.00
+PCP-A-1Y,1-Year PrimeCare+,"For POTS Adapter - includes IC2 subscription, 24/7 email ticket support, and AHR",$59.00
+PCP-A-2Y,2-Year PrimeCare+,"For POTS Adapter - includes IC2 subscription, 24/7 email ticket support, and AHR",$100.00
+PCP-A-4Y,4-Year PrimeCare+,"For POTS Adapter - includes IC2 subscription, 24/7 email ticket support, and AHR",$165.00
+<POTS Adapter Licenses & Warranties (click the + to open),,,
+PDX-5GH-T, PDX 5G,Ruggedized Portable One-Device Cellular Connectivity with 2x 5G Modems,"$14,999.00"
+PDX-LTEA-R-T, PDX LTEA,Ruggedized Portable One-Device Cellular Connectivity with 4x LTEA Modems,"$14,999.00"
+SVL-499,1-Year EssentialCare,For PDX - includes IC2 subscription,"$2,549.00"
+SVL-554,2-Year EssentialCare,For PDX - includes IC2 subscription,"$4,949.00"
+ECP-PDX-1Y,1-Year EssentialCare+,"For PDX - includes IC2 subscription, 24/7 email ticket support, and AHR","$3,749.00"
+ECP-PDX-2Y,2-Year EssentialCare+,"For PDX - includes IC2 subscription, 24/7 email ticket support, and AHR","$6,373.00"
+ECP-PDX-4Y,4-Year EssentialCare+,"For PDX - includes IC2 subscription, 24/7 email ticket support, and AHR","$10,497.00"
+<PDX Licenses & Warranties (click the + to open),,,
+SIM-BK8-4E-56V,SIM Injector,SIM Injector Purchased alone,"$1,499.00"
+SIM-MINI-8-1E,SIM Injector Mini,8x SIM cards capacity,$499.00
+ECP-SIM-BK8-1Y,EssentialCare+ (1-Year) for SIM Injector,"For SIM Injector - includes IC2 subscription, 24/7 email ticket support, and AHR",$379.00
+ECP-SIM-BK8-2Y,EssentialCare+ (2-Year) for SIM Injector,"For SIM Injector - includes IC2 subscription, 24/7 email ticket support, and AHR",$644.00
+ECP-SIM-BK8-4Y,EssentialCare+ (4-Year) for SIM Injector,"For SIM Injector - includes IC2 subscription, 24/7 email ticket support, and AHR","$1,061.00"
+SVL-496,1-Year EssentialCare,For SIM Injector - includes IC2 subscription,$259.00
+SVL-591,2-Year EssentialCare,For SIM Injector - includes IC2 subscription,$499.00
+SVL-SIM-MINI-1Y,1-Year EssentialCare,For SIM Injector Mini - includes IC2 subscription,$89.00
+SVL-SIM-MINI-2Y,2-Year EssentialCare,For SIM Injector Mini - includes IC2 subscription,$151.00
+ECP-C-1Y,1-Year EssentialCare+,"For SIM Injector Mini - includes IC2 subscription, 24/7 email ticket support, AHR",$129.00
+ECP-C-2Y,2-Year EssentialCare+,"For SIM Injector Mini - includes IC2 subscription, 24/7 email ticket support, AHR",$220.00
+ECP-C-4Y,4-Year EssentialCare+,"For SIM Injector Mini - includes IC2 subscription, 24/7 email ticket support, AHR",$362.00
+ICS-V02-1Y,1-Year InControl2 ,Per Device: for SIM Injector Mini,$49.00
+ICS-V02-2Y,2-Year InControl2 ,Per Device: for SIM Injector Mini,$98.00
+<Peplink SIM Injector Licenses & Warranties (click the + to open),,,
+SFE-CAM-AB-LTEA-W,SpeedFusion Engine Cam,Dual modem for Pro IP Cameras - Anton Bauer Gold Mount,"$3,499.00"
+SFE-CAM-VM-LTEA-W,SpeedFusion Engine Cam,Dual modem for Pro IP Cameras - V-Mount,"$3,499.00"
+SVL-483,1-Year EssentialCare,for SpeedFusion Engine Cam - includes IC2 subscription,$599.00
+SVL-587,2-Year EssentialCare,for SpeedFusion Engine Cam - includes IC2 subscription,"$1,159.00"
+ECP-SFE-CAM-1Y,1-Year EssentialCare+,"for SpeedFusion Engine Cam - includes IC2 , 24/7 email ticket support, and AHR",$879.00
+ECP-SFE-CAM-2Y,2-Year EssentialCare+,"for SpeedFusion Engine Cam - includes IC2 , 24/7 email ticket support, and AHR","$1,494.00"
+ECP-SFE-CAM-4Y,4-Year EssentialCare+,"for SpeedFusion Engine Cam - includes IC2 , 24/7 email ticket support, and AHR","$2,461.00"
+<SpeedFusion Engine Cam Licenses & Warranties (click the + to open),,,
+MAX-OTG-U4,MAX On-The-Go 4 USB,"4 Active USB Ports, SpeedFusion Upgradeable",$399.00
+MAX-OTG-U4-SF,MAX On-The-Go 4 USB,4 Active USB Ports with SpeedFusion WAN Smoothing ,$599.00
+ECP-MAX-OTG-1Y,1-Year EssentialCare+,"For MAX On-The-Go - includes IC2 subscription, 24/7 email ticket support, AHR",$99.00
+ECP-MAX-OTG-2Y,2-Year EssentialCare+,"For MAX On-The-Go - includes IC2 subscription, 24/7 email ticket support, AHR",$168.00
+ECP-MAX-OTG-4Y,4-Year EssentialCare+,"For MAX On-The-Go - includes IC2 subscription, 24/7 email ticket support, AHR",$277.00
+SVL-727,1-Year EssentialCare,For MAX On-The-Go - includes IC2 subscription,$79.00
+SVL-637,2-Year EssentialCare,For MAX On-The-Go - includes IC2 subscription,$139.00
+MAX-OTG-U1-LC-LB,Port Activation Key,Makes a MAX-OTG-U1 into a MAX-OTG-U4,$299.00
+MAX-OTG-U4-LC-SF,WAN Smoothing Key,Makes a MAX-OTG-U4 into a MAX-OTG-U4-SF,$249.00
+MAX-OTG-U1-LC-SF,Port and Smoothing Key,Makes a MAX-OTG-U1 into a MAX-OTG-U4-SF,$499.00
+ICS-012 ,1-Year InControl2,"1 Year renewal, per device for MAX On-The-Go",$29.00
+ICS-024 ,2-Year InControl2,"2 Year renewal, per device for MAX On-The-Go",$49.00
+<Peplink MAX On-The-Go Licenses & Warranties (click the + to open),,,
+MAX-ADP-LTE-US-T-PRM,MAX Adapter (Cat 4),1x LTE Modem (CAT-4),$199.00 
+MAX-ADP-LTEA-K-T,MAX Adapter (Cat 12),1x LTEA Modem (CAT-12),$349.00 
+MAX-ADP-LTEA-R-T,MAX Adapter (Cat 12),1x LTEA Modem (CAT-12),$349.00 
+PRM-Z-1Y,1-Year PrimeCare,For MAX Adapter (CAT-4) - includes IC2 subscription,$29.00
+PRM-Z-2Y,2-Year PrimeCare,For MAX Adapter (CAT-4) - includes IC2 subscription,$58.00
+PRM-Z-4Y,4-Year PrimeCare,For MAX Adapter (CAT-4) - includes IC2 subscription,$116.00
+PCP-Z-1Y,1-Year PrimeCare+,For MAX Adapter (CAT-4) - includes IC2 subscription,$39.00
+PCP-Z-2Y,2-Year PrimeCare+,For MAX Adapter (CAT-4) - includes IC2 subscription,$68.00
+PCP-Z-4Y,4-Year PrimeCare+,For MAX Adapter (CAT-4) - includes IC2 subscription,$109.00
+SVL-MAX-ADP-LTEA-RK-1Y,1-Year EssentialCare,For MAX Adapter (Cat 12) - includes IC2 subscription,$69.00
+SVL-MAX-ADP-LTEA-RK-2Y,2-Year EssentialCare,For MAX Adapter (Cat 12) - includes IC2 subscription,$119.00
+ECP-B-1Y,1-Year EssentialCare+,"For MAX Adapter (Cat 12) - includes IC2, 24/7 email ticket support, and AHR",$89.00
+ECP-B-2Y,2-Year EssentialCare+,"For MAX Adapter (Cat 12) - includes IC2, 24/7 email ticket support, and AHR",$152.00
+ECP-B-4Y,4-Year EssentialCare+,"For MAX Adapter (Cat 12) - includes IC2, 24/7 email ticket support, and AHR",$250.00
+ICS-012 ,1-Year InControl2,"1 Year renewal, per device for Max Adapter",$29.00
+ICS-024 ,2-Year InControl2,"1 Year renewal, per device for Max Adapter",$49.00
+<Peplink Max Adpater Licenses & Warranties (click the + to open),,,
+Peplink Outdoor Routers,,,
+MAX-HD4-M-LTEA-W-IP67,MAX HD4 LTEA IP67,Water and Dust Resistant Router for Americas/EMEA,"$6,999.00"
+ECP-MAX-HD4-LTEA-IP67-1Y,1-Year EssentialCare+,"For HD4 IP67 - includes IC2 subscription, 24/7 email ticket support, and AHR","$1,749.00"
+ECP-MAX-HD4-LTEA-IP67-2Y,2-Year EssentialCare+,"For HD4 IP67 - includes IC2 subscription, 24/7 email ticket support, and AHR","$2,973.00"
+ECP-MAX-HD4-LTEA-IP67-4Y,4-Year EssentialCare+,"For HD4 IP67 - includes IC2 subscription, 24/7 email ticket support, and AHR","$4,897.00"
+SVL-478,1-Year EssentialCare,For HD4 IP67 - includes IC2 subscription,"$1,198.00"
+SVL-487,2-Year EssentialCare,For HD4 IP67 - includes IC2 subscription,"$2,319.00"
+MAX-HD-020-SPF,20 Peer SF License,Up to 20 PepVPN/SpeedFusion Peers,$999.00
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+<Peplink MAX BR1 LTEA IP67 Licenses & Warranties (click the + to open),,,
+MAX-HD1-DOM-PRO-5GN,MAX HD1 DOM 5G,5G Cellular Outdoor Router ,"$2,799.00"
+SIM-BK8-4E-56V-DOM,SIM Injector,SIM Injector Purchased with the HD1 / HD2 Dome,$999.00
+SIM-MINI-8-1E,SIM Injector Mini,8x SIM cards capacity,$499.00
+SVL-MAX-HD1-DOM-PRO-5G-1Y,1-Year EssentialCare,For HD1 5G - includes IC2 subscription,$469.00
+SVL-MAX-HD1-DOM-PRO-5G-2Y,2-Year EssentialCare,For HD1 5G - includes IC2 subscription,$899.00
+SVL-MAX-HD1-DOM-PRO-5G-4Y,4-Year EssentialCare,For HD1 5G - includes IC2 subscription,"$1,313.00"
+ECP-MAX-HD1-DOM-PRO-5G-1Y,1-Year EssentialCare+,"For HD1 5G - includes IC2 subscription, 24/7 email ticket support, and AHR",$699.00 
+ECP-MAX-HD1-DOM-PRO-5G-2Y,2-Year EssentialCare+,"For HD1 5G - includes IC2 subscription, 24/7 email ticket support, and AHR","$1,188.00 "
+ECP-MAX-HD1-DOM-PRO-5G-4Y,4-Year EssentialCare+,"For HD1 5G - includes IC2 subscription, 24/7 email ticket support, and AHR","$1,957.00 "
+MAX-HD-020-SPF,20 Peer SF License,Up to 20 PepVPN/SpeedFusion Peers,$999.00
+ECP-SIM-BK8-1Y,EssentialCare+ (1-Year) for SIM Injector,"For SIM Injector - includes IC2 subscription, 24/7 email ticket support, and AHR",$379.00
+ECP-SIM-BK8-2Y,EssentialCare+ (2-Year) for SIM Injector,"For SIM Injector - includes IC2 subscription, 24/7 email ticket support, and AHR",$644.00
+ECP-SIM-BK8-4Y,EssentialCare+ (4-Year) for SIM Injector,"For SIM Injector - includes IC2 subscription, 24/7 email ticket support, and AHR","$1,061.00"
+SVL-496,1-Year EssentialCare,For SIM Injector - includes IC2 subscription,$259.00
+SVL-591,2-Year EssentialCare,for SIM Injector - includes IC2 subscription,$499.00
+SVL-SIM-MINI-1Y,1-Year EssentialCare,for SIM Injector Mini - includes IC2 subscription,$89.00
+SVL-SIM-MINI-2Y,2-Year EssentialCare,for SIM Injector Mini - includes IC2 subscription,$151.00
+ICS-V02-1Y,1-Year InControl2 ,Per Device: for SIM Injector Mini,$49.00
+ICS-V02-2Y,2-Year InControl2 ,Per Device: for SIM Injector Mini,$98.00
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+LIC-VWAN,Virtual WAN Activation License,Activate Virtual WAN for Selected Models. ,$200.00
+LIC-2VWAN,Virtual WAN Activation License,Activate 2x Virtual WAN for Selected Models. ,$400.00
+LIC-3VWAN,Virtual WAN Activation License,Activate 3x Virtual WAN for Selected Models. ,$600.00
+<Peplink MAX HD1 Dome Licenses & Warranties (click the + to open),,,
+DOM-PRO-LR-5GN-PRM,Dome Pro LR,Long Range 5G Cellular Outdoor Router with 2x Embedded Cellular Modems,"$7,999.00"
+SIM-BK8-4E-56V-DOM,SIM Injector,SIM Injector Purchased with the HD1 / HD2 Dome,$999.00
+SIM-MINI-8-1E,SIM Injector Mini,8x SIM cards capacity,$499.00
+ECP-SIM-BK8-1Y,EssentialCare+ (1-Year) for SIM Injector,"For SIM Injector - includes IC2 subscription, 24/7 email ticket support, and AHR",$379.00
+ECP-SIM-BK8-2Y,EssentialCare+ (2-Year) for SIM Injector,"For SIM Injector - includes IC2 subscription, 24/7 email ticket support, and AHR",$644.00
+ECP-SIM-BK8-4Y,EssentialCare+ (4-Year) for SIM Injector,"For SIM Injector - includes IC2 subscription, 24/7 email ticket support, and AHR","$1,061.00"
+SVL-496,1-Year EssentialCare,For SIM Injector - includes IC2 subscription,$259.00
+SVL-591,2-Year EssentialCare,for SIM Injector - includes IC2 subscription,$499.00
+PRM-P-1Y,1-Year PrimeCare,For DOM-PRO-LR-5GN-PRM - includes IC2 subscription,"$1,299.00 "
+PRM-P-2Y,2-Year PrimeCare,For DOM-PRO-LR-5GN-PRM - includes IC2 subscription,"$2,598.00 "
+PRM-P-4Y,4-Year PrimeCare,For DOM-PRO-LR-5GN-PRM - includes IC2 subscription,"$5,196.00 "
+PCP-P-1Y,1-Year PrimeCare+,"For DOM-PRO-LR-5GN-PRM - includes IC2, 24/7 email ticket support, and AHR","$1,559.00 "
+PCP-P-2Y,2-Year PrimeCare+,"For DOM-PRO-LR-5GN-PRM - includes IC2, 24/7 email ticket support, and AHR","$2,650.00 "
+PCP-P-4Y,4-Year PrimeCare+,"For DOM-PRO-LR-5GN-PRM - includes IC2, 24/7 email ticket support, and AHR","$4,365.00 "
+MAX-HD-020-SPF,20 Peer SF License,Up to 20 PepVPN/SpeedFusion Peers,$999.00
+SVL-SIM-MINI-1Y,1-Year EssentialCare,for SIM Injector Mini - includes IC2 subscription,$89.00
+SVL-SIM-MINI-2Y,2-Year EssentialCare,for SIM Injector Mini - includes IC2 subscription,$151.00
+ICS-V02-1Y,1-Year InControl2 ,Per Device: for SIM Injector Mini,$49.00
+ICS-V02-2Y,2-Year InControl2 ,Per Device: for SIM Injector Mini,$98.00
+LIC-OPN-WAN,OpenVPN WAN License,Activate 1x OpenVPN WAN ,$20.00
+LIC-2OPN-WAN,2x OpenVPN WAN License,Activate 2x OpenVPN WAN,$40.00
+LIC-3OPN-WAN,3x OpenVPN WAN License,Activate 3x OpenVPN WAN,$60.00
+LIC-VWAN,Virtual WAN Activation License,Activate Virtual WAN for Selected Models. ,$200.00
+LIC-2VWAN,Virtual WAN Activation License,Activate 2x Virtual WAN for Selected Models. ,$400.00
+LIC-3VWAN,Virtual WAN Activation License,Activate 3x Virtual WAN for Selected Models. ,$600.00
+<Peplink Dome Pro LR / SIM Injector Licenses & Warranties (click the + to open),,,
+Peplink Business Wi-Fi Access Point,,,
+APO-AC-MINI ,AP One AC  Mini,Simultaneous Dual-Band 802.11ac/a/b/g/n Wave 2 AP ,$179.00
+APO-AC-RUG,AP One Rugged,"Dual-band Wi-Fi 5, 2x2 MIMO",$299.00
+APO-AGN2-IW-US ,AP One In-Wall,Simultaneous Dual-Band 802.11a/b/g/n AP ,$299.00
+APO-AX,AP One AX,Dual-Radio Concurrent 2.4 GHz & 5 GHz ( 802.11 ax/n/b/g),$399.00
+APO-AX-LITE,AP One AX Lite,2x2 MIMO Wi-Fi 6 Simultaneous Dual-Band 802.11ax/ac/b/g/n,$299.00
+SVL-791,1-Year EssentialCare,For AP One Mini - includes IC2 subscription,$29.00
+SVL-691,2-Year EssentialCare,For AP One Mini - includes IC2 subscription,$39.00
+SVL-742,1-Year EssentialCare,For AP One In-Wall - includes IC2 subscription,$49.00
+SVL-743,1-Year EssentialCare,For AP Flex - includes IC2 subscription,$69.00
+SVL-621,2-Year EssentialCare,For AP Flex - includes IC2 subscription,$119.00
+SVL-620,2-Year EssentialCare,For AP One In-Wall - includes IC2 subscription,$89.00
+SVL-APO-AX-1Y,1-Year EssentialCare,For AP One AX- includes IC2 subscription,$69.00
+SVL-APO-AX-2Y,2-Year EssentialCare,For AP One AX- includes IC2 subscription,$119.00
+SVL-APO-AX-LITE-1Y,1-Year EssentialCare,For AP One AX Lite- includes IC2 subscription,$49.00
+SVL-APO-AX-LITE-2Y,2-Year EssentialCare,For AP One AX Lite- includes IC2 subscription,$98.00
+SVL-413,1-Year EssentialCare,For APO One Rugged,$49.00
+SVL-513,2-Year EssentialCare,For APO One Rugged,$79.00
+ECP-A-1Y,1-Year EssentialCare+,For AP One Series (except AP One Flex and AP One AX) ,$69.00
+ECP-A-2Y,2-Year EssentialCare+,For AP One Series (except AP One Flex and AP One AX) ,$118.00
+ECP-A-4Y,4-Year EssentialCare+,For AP One Series (except AP One Flex and AP One AX) ,$194.00
+ECP-B-1Y,1-Year EssentialCare+,For AP One AX,$89.00
+ECP-B-2Y,2-Year EssentialCare+,For AP One AX,$152.00
+ECP-B-4Y,4-Year EssentialCare+,For AP One AX,$250.00
+ICS-012 ,1-Year InControl2,"1-Year renewal, per device ",$29.00
+ICS-024 ,2-Year InControl2,"2-Year renewal, per device ",$49.00
+<Peplink AP One Licenses & Warranties (click the + to open),,,
+Peplink Enterprise Wi-Fi Access Point,,,
+APO-ENTR,AP One Enterprise,Super Rugged Enterprise-Grade Access point,$699.00
+PRM-A-1Y,1-Year PrimeCare,For AP One Enterprise - includes IC2 subscription,$49.00
+PRM-A-2Y,2-Year PrimeCare,For AP One Enterprise - includes IC2 subscription,$98.00
+PRM-A-4Y,4-Year PrimeCare,For AP One Enterprise - includes IC2 subscription,$196.00
+PCP-A-1Y,1-Year PrimeCare+,"For AP One Enterprise - includes IC2, 24/7 email ticket support, and AHR",$59.00
+PCP-A-2Y,2-Year PrimeCare+,"For AP One Enterprise - includes IC2, 24/7 email ticket support, and AHR",$100.00
+PCP-A-4Y,4-Year PrimeCare+,"For AP One Enterprise - includes IC2, 24/7 email ticket support, and AHR",$165.00
+<Peplink AP One Enterprise Warranties (click the + to open),,,
+Peplink Industrial-Grade Wi-Fi Access Point,,,
+APP-AX-IP67,AP Pro AX,Super Rugged Enterprise-Grade Access point,$699.00
+SVL-APP-AX-IP67-1Y,1-Year EssentialCare,For AP Pro AX,$119.00
+SVL-APP-AX-IP67-2Y,2-Year EssentialCare,For AP Pro AX,$219.00
+ECP-D-1Y,1-Year EssentialCare+,For AP Pro AX,$199.00
+ECP-D-2Y,2-Year EssentialCare+,For AP Pro AX,$339.00
+ECP-D-4Y,4-Year EssentialCare+,For AP Pro AX,$558.00
+ICS-V01-1Y,1-Year InControl2,"1-Year renewal, per device",$39.00
+ICS-V01-2Y,2-Year InControl2,"2-Year renewal, per device ",$78.00
+<Peplink AP Pro Licenses & Warranties (click the + to open),,,
+Peplink Real-Time Wi-Fi Analysis Probe,,,
+PRB-11N,AirProbe ,802.11b/g/n  Wi-Fi Diagnostic Monitor,$99.00
+PRB-IC2-1Y,1-Year AirProbe Subscription,1-Year Software Licence Renewal per device,$99.00
+PRB-IC2-2Y,2-Year AirProbe Subscription,2-Year Software Licence Renewal per device,$189.00
+<Peplink AirProbe Licenses & Warranties (click the + to open),,,
+Peplink PoE SD Switches,,,
+PLS-8-10G-720W,8 PoE 10G Switch,"8 PoE 10G Switch w/720W power budget, 8x 10GE l 802.3bt PoE++ RJ45, 4x 10GE SFP+",$799.00
+PLS-24-H2G-410W,24 PoE 2.5G Switch,SD Switch 24-Port with 410 W Power Budget,$799.00
+PLS-R-24-H2G-250W,24 PoE 2.5G Switch Rugged,SD Switch 24-Port Rugged with 250W Power Budget,"$1,199.00"
+PLS-48-H2G-740W,48 PoE 2.5G Switch,SD Switch 48-Port with 740W Power Budget,"$1,199.00"
+PRM-A-1Y,1-Year PrimeCare,For 8 PoE 10G Switch and 24 PoE Switch - includes IC2 subscription,$49.00
+PRM-A-2Y,2-Year PrimeCare,For 8 PoE 10G Switch and 24 PoE Switch - includes IC2 subscription,$98.00
+PRM-A-4Y,4-Year PrimeCare,For 8 PoE 10G Switch and 24 PoE Switch - includes IC2 subscription,$196.00
+PCP-A-1Y,1-Year PrimeCare+,"For 8 PoE 10G Switch and 24 PoE Switch - includes IC2, 24/7 email ticket support, AHR",$59.00
+PCP-A-2Y,2-Year PrimeCare+,"For 8 PoE 10G Switch and 24 PoE Switch - includes IC2, 24/7 email ticket support, AHR",$100.00
+PCP-A-4Y,4-Year PrimeCare+,"For 8 PoE 10G Switch and 24 PoE Switch - includes IC2, 24/7 email ticket support, AHR",$165.00
+PRM-B-1Y,1-Year PrimeCare,For 24 port rugged and 48 port PoE Switch - includes IC2 subscription,$99.00
+PRM-B-2Y,2-Year PrimeCare,For 24 PoE Switch - includes IC2 subscription,$198.00
+PRM-B-4Y,4-Year PrimeCare,For 24 PoE Switch - includes IC2 subscription,$396.00
+PCP-B-1Y,1-Year PrimeCare+,"For 24 port rugged and 48 port PoE Switch - includes IC2, 24/7 email ticket support, AHR",$119.00
+PCP-B-2Y,2-Year PrimeCare+,"For 24 port rugged and 48 port PoE Switch - includes IC2, 24/7 email ticket support, AHR",$202.00
+PCP-B-4Y,4-Year PrimeCare+,"For 24 port rugged and 48 port PoE Switch - includes IC2, 24/7 email ticket support, AHR",$333.00
+"<Peplink SD Switch Licenses, Add-ons, Warranties and Accessories (click the + to open)",,,
+PepXIM Power and Security,,,
+RDR-IW-LCD,Smart Reader with LCD,PepXIM Time-logging and Security System,$499.00
+PMU-DD-52V-400W,SD-PMU ,Software-Defined Power Management Unit  ,$699.00
+SVL-469,1-Year EssentialCare,For Smart Reader  ,$89.00
+SVL-582,2-Year EssentialCare,For Smart Reader  ,$169.00
+SVL-477,1-Year EssentialCare,For SD-PMU - includes IoT Cloud subscription,$126.00
+SVL-583,2-Year EssentialCare,For SD-PMU - includes IoT Cloud subscription,$239.00
+ECP-D-1Y,1-Year EssentialCare+,For SD-PMU - includes IoT Cloud subscription,$199.00
+ECP-D-2Y,2-Year EssentialCare+,For SD-PMU - includes IoT Cloud subscription,$339.00
+ECP-D-4Y,4-Year EssentialCare+,For SD-PMU - includes IoT Cloud subscription,$558.00
+TA-10,TA Cloud Appliance,Supports 10 Smart Readers - Annual Fee,$999.00
+TA-VA-LC-10,10 License Pack,Allows the 10 additional Smart Readerd on TA-VA-20,$999.00
+TA-LC-1,Single License Pack,Allows the 1 additional Smart Readerd on TA-VA-20,$99.00
+"<PepXIM Licenses, Add-ons, and Warranties (click the + to open)",,,
+Peplink FusionHub Appliance,,,
+FHB-ESN-A,FusionHub Essential,5 peers ,$499.00
+SVL-681,2-Year EssentialCare,For FusionHub Essential- Includes InControl2,$169.00
+SVL-781,1-Year EssentialCare,For FusionHub Essential- Includes InControl2,$89.00
+FIPS-LC-FHB,FIPS License for FusionHub,For any FusionHub,"$4,500.00"
+<FusionHub Essential Licenses and Warranties (click the + to open),,,
+FHB-PRO-A,FusionHub Pro,20 peers,"$1,999.00"
+SVL-682,2-Year EssentialCare,For FusionHub Pro - Includes InControl2,$659.00
+SVL-782,1-Year EssentialCare,For FusionHub Pro - Includes InControl2,$339.00
+FIPS-LC-FHB,FIPS License for FusionHub,For any FusionHub,"$4,500.00"
+<FusionHub Pro Licenses and Warranties (click the + to open),,,
+FHB-100-A,FusionHub 100,100 peers,"$2,999.00"
+SVL-683,2-Year EssentialCare,For FusionHub 100 - Includes InControl2,$989.00
+SVL-783,1-Year EssentialCare,For FusionHub 100 - Includes InControl2,$509.00
+ECP-FHB-100-1Y,1-Year EssentialCare+,For FusionHub 100 - Includes InControl2,$749.00
+ECP-FHB-100-2Y,2-Year EssentialCare+,For FusionHub 100 - Includes InControl2,"$1,273.00"
+ECP-FHB-100-4Y,4-Year EssentialCare+,For FusionHub 100 - Includes InControl2,"$2,097.00"
+FIPS-LC-FHB,FIPS License for FusionHub,For any FusionHub,"$4,500.00"
+<FusionHub 100 Licenses and Warranties (click the + to open),,,
+FHB-500-A,FusionHub 500,500 peers,"$5,999.00"
+SVL-684,2-Year EssentialCare,For FusionHub 500 - Includes InControl2,"$1,979.00"
+SVL-784,1-Year EssentialCare,For FusionHub 500 - Includes InControl2,"$1,019.00"
+ECP-FHB-500-1Y,1-Year EssentialCare+,For FusionHub 500 - Includes InControl2,"$1,499.00"
+ECP-FHB-500-2Y,2-Year EssentialCare+,For FusionHub 500 - Includes InControl2,"$2,548.00"
+ECP-FHB-500-4Y,4-Year EssentialCare+,For FusionHub 500 - Includes InControl2,"$4,197.00"
+FIPS-LC-FHB,FIPS License for FusionHub,For any FusionHub,"$4,500.00"
+<FusionHub 500 Licenses and Warranties (click the + to open),,,
+FHB-1000-A,FusionHub 1000,1000 peers ,"$7,999.00"
+SVL-685,2-Year EssentialCare,For FusionHub 1000 - Includes InControl2,"$2,639.00"
+SVL-785,1-Year EssentialCare,For FusionHub 1000 - Includes InControl2,"$1,359.00"
+ECP-FHB-1000-1Y,1-Year EssentialCare+,For FusionHub 1000 - Includes InControl2,"$1,999.00"
+ECP-FHB-1000-2Y,2-Year EssentialCare+,For FusionHub 1000 - Includes InControl2,"$3,398.00"
+ECP-FHB-1000-4Y,4-Year EssentialCare+,For FusionHub 1000 - Includes InControl2,"$5,597.00"
+FIPS-LC-FHB,FIPS License for FusionHub,For any FusionHub,"$4,500.00"
+<FusionHub 1000 Licenses and Warranties (click the + to open),,,
+FHB-2000,FusionHub 2000,2000 peers ,"$9,999.00"
+SVL-686,2-Year EssentialCare,For FusionHub 2000 - Includes InControl2,"$3,299.00"
+SVL-786,1-Year EssentialCare,For FusionHub 2000 - Includes InControl2,"$1,699.00"
+ECP-FHB-2000-1Y,1-Year EssentialCare+,For FusionHub 2000 - Includes InControl2,"$2,499.00"
+ECP-FHB-2000-2Y,2-Year EssentialCare+,For FusionHub 2000 - Includes InControl2,"$4,248.00"
+ECP-FHB-2000-4Y,4-Year EssentialCare+,For FusionHub 2000 - Includes InControl2,"$6,997.00"
+FIPS-LC-FHB,FIPS License for FusionHub,For any FusionHub,"$4,500.00"
+<FusionHub 2000 Licenses and Warranties (click the + to open),,,
+FHB-4000,FusionHub 4000,4000 peers ,"$14,999.00"
+SVL-687,2-Year EssentialCare,For FusionHub 4000 - Includes InControl2,"$4,949.00"
+SVL-787,1-Year EssentialCare,For FusionHub 4000 - Includes InControl2,"$2,499.00"
+ECP-FHB-4000-1Y,1-Year EssentialCare+,For FusionHub 4000 - Includes InControl2,"$3,749.00"
+ECP-FHB-4000-2Y,2-Year EssentialCare+,For FusionHub 4000 - Includes InControl2,"$6,373.00"
+ECP-FHB-4000-4Y,4-Year EssentialCare+,For FusionHub 4000 - Includes InControl2,"$10,497.00"
+FIPS-LC-FHB,FIPS License for FusionHub,For any FusionHub,"$4,500.00"
+<FusionHub 4000 Licenses and Warranties (click the + to open),,,
+SpeedFusion Connect (Peplink-Hosted FusionHub),,,
+SFC-CLD-B,SpeedFusion Connect Usage - Plan B,"500GB Data at 200Mbps Speed, Valid period 180 days",$20.00
+SFC-CLD-C,SpeedFusion Connect Usage - Plan C,"1TB Data at 200Mbps Speed, Valid period 365 days",$40.00
+SFC-CLD-D,SpeedFusion Connect Usage - Plan D,"2.5TB Data at 200Mbps, Valid period 365 days",$80.00
+SFC-CLD-E,SpeedFusion Connect Usage - Plan E,"5TB Data at 200Mbps, Valid period 2 years",$159.00
+SFC-CLD-F,SpeedFusion Connect Usage - Plan F,"10TB Data at 200Mbps, Valid period 3 years",$299.00
+SFC-CLD-U-1M,SF Connect Usage - Unlimited Plan (1 Month)   ,"Unlimited usage at 400Mpbs, Valid period 1 Month",$99.00
+SFC-CLD-U-1Y,SF Connect Usage - Unlimited Plan (Year) ,"Unlimited usage at 400Mpbs, Valid period 1 Year",$800.00
+Peplink eSIM Data Plans,,,
+SFC-CN-A,Peplink eSIM Data - Plan A,"10GB data, valid 90 days — includes 100GB / Speed 200Mbps SF Connect ",$100.00
+SFC-CN-B,Peplink eSIM Data - Plan B,"50GB data, valid 180 days — includes 500GB / Speed 200Mbps SF Connect",$480.00
+SFC-CN-C,Peplink eSIM Data - Plan C,"100GB data, valid 365 days — includes 1TB / Speed 200Mbps, SF Connect",$950.00
+SFC-CN-D,Peplink eSIM Data - Plan D,"250GB data, valid 365 days — includes 2.5TB / Speed 200Mbps, SF Connect","$2,250.00"
+SFC-CN-E,Peplink eSIM Data - Plan E,"500GB data, valid 2 years — includes 5TB / Speed 200Mbps, SF Connect","$4,250.00"
+SFC-CN-F,Peplink eSIM Data - Plan F,"1TB data, valid 3 years — includes 10TB / Speed 200Mbps, SF Connect","$8,000.00"
+SFC-CN-S-A,Peplink NA & EU eSIM Data – Starter,"20GB Peplink eSIM Data (US, Canada, and Europe only) / 200GB SFConnect Usage ",$79.00
+SFC-CN-S-B,Peplink NA & EU eSIM Data - Standard,"30GB Peplink eSIM Data (US, Canada, and Europe only) / 200GB SFConnect Usage ",$99.00
+SFC-CN-S-C,Peplink NA & EU eSIM Data - Standard,"60GB Peplink eSIM Data (US, Canada, and Europe only) / 200GB SFConnect Usage ",$189.00
+SFC-CNP-D,Peplink eSIM Data - Pooled Plan D,"250GB Cellular Data, valid for 365 days","$2,000.00"
+SFC-CNP-E,Peplink eSIM Data - Pooled Plan E,"500GB Cellular Data, valid for 365 days","$3,900.00"
+SFC-CNP-F,Peplink eSIM Data - Pooled Plan F,"1TB Cellular Data, valid for 365 days","$7,600.00"
+SFC-CNP-G,Peplink eSIM Data - Pooled Plan G,"2TB Cellular Data, valid for 365 days","$14,800.00"
+SFC-CNP-H,Peplink eSIM Data - Pooled Plan H,"5TB Cellular Data, valid for 365 days","$36,000.00"
+SFC-CNP-J,Peplink eSIM Data - Pooled Plan J,"10TB Cellular Data, valid for 365 days","$70,000.00"
+Antennas,,,
+ANT-107-Q-LTE4-G,4x4 MIMO 6dbi,IP67 Omnidirectional LTE/GPS Antenna QMA connectors,$199.00
+ANT-IOT-20G-N-W-2,"2x LTE/5G, 1x GPS ",2x2 MIMO 5G Ready Cellular Antenna System with GPS ,$349.00
+ANT-IOT-20G-S-W-16,"2x LTE/5G, 1x GPS ",2x2 MIMO 5G Ready Cellular Antenna System with GPS ,$349.00
+ANT-MAX,4x4 MIMO/2x WIFI/GPS/IP67 Router Enclosure,"Turns BR1 Mini, BR1 Pro and Transit Duo into an outdoor 5G or 4G antenna",$349.00
+ANT-MAX-S,4x4 MIMO/2x WIFI/GPS/IP67 Router Enclosure,"For Starlink Mini with BR1 Mini, Transit Duo Pro, BR1 Pro 5G, or BR1 Pro CAT-20",$699.00
+ANT-MAX-DUO,8x8 MIMO/2x Wi-Fi/GPS/IP67 Router Enclosure,"Turns BR2 Pro, 2x BR1 Pro 5G, 2x BR1 Mini 5G, etc. into outdoor 5G or 4G antenna",$799.00
+ANT-MB-02-Q-B-1,2x2 MIMO WIFI,Black 2x2 MIMO Wi-Fi Dual Band Antenna QMA adapters,$149.00
+ANT-MB-02-Q-W-1,2x2 MIMO WIFI,White 2x2 MIMO Wi-Fi Dual Band Antenna QMA adapters,$149.00
+ANT-MB-02-R-W-6,2x2 MIMO WIFI,White 2x2 MIMO Wi-Fi Dual Band Antenna RP-SMA adapters,$149.00
+ANT-MB-20G-S-B-6,"2xLTE, 1xGPS",Black 2x2 MIMO 5G Ready Cellular Antenna System with GPS ,$199.00
+ANT-MB-20G-S-W-6,"2xLTE, 1xGPS",White 2x2 MIMO 5G Ready Cellular Antenna System with GPS ,$199.00
+ANT-MB-22G-Q-B-1,"2xLTE, 2x Wi-Fi, 1xGPS","Black 5-in-1 2x LTE, 2x W-Fi, 1x GPS QMA adapters",$249.00
+ANT-MB-22G-Q-W-1,"2xLTE, 2x Wi-Fi, 1xGPS","White 5-in-1 2x LTE, 2x W-Fi, 1x GPS QMA adapters",$249.00
+ANT-MB-22G-S-B-6,"2xLTE, 2x Wi-Fi, 1xGPS","Black 5-in-1 2x LTE, 2x W-Fi, 1x GPS SMA/RP-SMA adapters",$249.00
+ANT-MB-22G-S-W-6,"2xLTE, 2x Wi-Fi, 1xGPS","White 5-in-1 2x LTE, 2x W-Fi, 1x GPS SMA/RP-SMA adapters",$249.00
+ANT-MB-40G-N-B-6,4x4 MIMO LTE / GPS ,Black IP67 Omni 5-in-1 4x4 MIMO LTE / GPS N adapter,$249.00
+ANT-MB-40G-N-W-6,4x4 MIMO LTE / GPS ,White IP67 Omni 5-in-1 4x4 MIMO LTE / GPS N adapter,$249.00
+ANT-MB-40G-Q-B-1,4x4 MIMO LTE / GPS ,Black IP67 Omni 5-in-1 4x4 MIMO LTE / GPS QMA adapters,$249.00
+ANT-MB-40G-Q-B-6,4x4 MIMO LTE / GPS ,Black IP67 Omni 5-in-1 4x4 MIMO LTE / GPS QMA adapters,$249.00
+ANT-MB-40G-Q-W-1,4x4 MIMO LTE / GPS ,White IP67 Omni 5-in-1 4x4 MIMO LTE / GPS QMA adapters,$249.00
+ANT-MB-40G-Q-W-6,4x4 MIMO LTE / GPS ,White IP67 Omni 5-in-1 4x4 MIMO LTE / GPS QMA adapters,$249.00
+ANT-MB-40G-S-B-6,4x4 MIMO LTE / GPS ,Black IP67 Omni 5-in-1 4x4 MIMO LTE / GPS SMA adapters,$249.00
+ANT-MB-40G-S-W-6,4x4 MIMO LTE / GPS ,White IP67 Omni 5-in-1 4x4 MIMO LTE / GPS SMA adapters,$249.00
+ANT-MB-42G-Q-B-1,4x4 MIMO LTE / 2x WIFI / GPS ,Black IP67 Omni 7-in-1 4x4 MIMO LTE 2x WIFI / GPS QMA ,$299.00
+ANT-MB-42G-Q-B-6,4x4 MIMO LTE / 2x WIFI / GPS ,Black IP67 Omni 7-in-1 4x4 MIMO LTE 2x WIFI / GPS QMA ,$299.00
+ANT-MB-42G-Q-W-1,4x4 MIMO LTE / 2x WIFI / GPS ,White IP67 Omni 7-in-1 4x4 MIMO LTE 2x WIFI / GPS QMA ,$299.00
+ANT-MB-42G-Q-W-6,4x4 MIMO LTE / 2x WIFI / GPS ,White IP67 Omni 7-in-1 4x4 MIMO LTE 2x WIFI / GPS QMA ,$299.00
+ANT-MB-42G-S-B-1,4x4 MIMO LTE / 2x WIFI / GPS ,Black IP67 Omni 7-in-1 4x4 MIMO LTE 2x WIFI / GPS SMA / 1 Ft. Cable,$299.00
+ANT-MB-42G-S-W-1,4x4 MIMO LTE / 2x WIFI / GPS ,White IP67 Omni 7-in-1 4x4 MIMO LTE 2x WIFI / GPS SMA / 1 Ft. Cable,$299.00
+ANT-MB-42G-S-B-6,4x4 MIMO LTE / 2x WIFI / GPS ,Black IP67 Omni 7-in-1 4x4 MIMO LTE 2x WIFI / GPS SMA ,$299.00
+ANT-MB-42G-S-W-16,4x4 MIMO LTE / 2x WIFI / GPS ,White IP67 Omni 5-in-1 4x4 MIMO LTE / GPS SMA adapters,$349.00
+ANT-MB-42G-S-W-6,4x4 MIMO LTE / 2x WIFI / GPS ,White IP67 Omni 7-in-1 4x4 MIMO LTE 2x WIFI / GPS SMA ,$299.00
+ANT-MR-10-N-W,1x LTE/5G Cellular Antenna,"1x LTE/5G Cellular Antenna, IP68",$349.00
+ANT-MR-20G-S-W-6,2x MIMO LTE / GPS ,2x2 MIMO 5G Ready Cellular Antenna System with GPS ,$449.00
+ANT-MR-40G-S-W-6,4x4 MIMO LTE / GPS ,4x4 MIMO 5G Ready Cellular Antenna System with GPS ,$649.00
+ANT-MB-82G-S-W-6,8x8 MIMO LTE+5G / 2x Wi-Fi / GPS,White IP67 Omni 8x8 MIMO LTE+5G 2x Wi-Fi / 1x GPS SMA,$699.00
+ANT-MB-82G-Q-W-6,8x8 MIMO LTE+5G / 2x Wi-Fi / GPS,White IP67 Omni 8x8 MIMO LTE+5G 2x Wi-Fi / 1x GPS QMA,$699.00
+ANT-SLM-22G-S-B-6,Peplink 22G Slim Antenna,"Black 2x2 MIMO 5G+LTE, 2x W-Fi, 1x GPS SMA/RP-SMA adapters",$149.00
+ANT-SLM-40G-S-B-6,Peplink 40G Slim Antenna,Black 4x4 MIMO 5G Ready Cellular Antenna System with GPS ,$149.00
+Accessories,,,
+ACW-102,Passive PoE Injector,"for BR1 Mini, AP Pro, and DC IP67",$19.00
+ACW-107,802.3af/at PoE Injector,IEEE 802.3af/at compliant,$79.00
+ACW-109,802.3af/at PoE Injector,for IP55 Outdoor Products ,$69.00
+ACW-202 ,8dBi Omni Antenna ,"2.4GHz Outdoor,  N-Male Connector",$99.00
+ACW-205,3dBi Cellular Antenna ,"Indoor, Magnetic, for 3G, SMA",$19.00
+ACW-221,5dBi 2.4GHz  Wi-Fi Indoor Omni Antenna,Magnetic Base,$25.00
+ACW-232 ,GPS Antenna,Magnetic GPS,$29.00
+ACW-235 ,Cellular Antenna,Indoor LTE/5G very Wideband Cellular Antenna,$19.00
+ACW-308 ,8dBi Omni Antenna ,"Outdoor, 5.8GHz, N-Male Connector",$99.00
+ACW-341,5dBi Omni Antenna,Dual-Band Wi-Fi Indoor Omni Antenna,$19.00
+ACW-342,6dBi Indoor Dual-Band Wi-Fi Antenna,For BR1 Mini HW3 ,$19.00
+ACW-409,Magnetic Antenna Base,"Magnetic Antenna Base, 1.5M cord, SMA-M to SMA-F ",$29.00
+ACW-411 ,BR1 Mini Port Adapter,Enables RS-232 console port,$19.00
+ACW-510,Ball Joint Mount,for IP55 Outdoor Products,$29.00
+ACW-511 ,SIM Extender,"approximately 16""",$69.00
+ACW-601-US,12V2A Power Supply,"for MAX HD2 Mini, BR1 LTE, and BR1 ENT",$25.00
+ACW-602-US,12V3A Power Supply,"Power Supply compatible with MAX 700, and HD2",$29.00
+ACW-609-US,PoE Activation Kit,"for HD4, HD2 Mini, HD2/HD4 MF, MF 200,BR1-Ent",$79.00
+ACW-614-US,Type A (US) DC Power Supply,"Balance 305, Balance 380, Balance 580, Balance 710, Balance 1350, Balance 2500 (Requires 2 units per Balance 2500), Balance Two, 8 port SD Switch, 16 port SD Switch",$30.00
+ACW-618-US,PoE+ Activation Kit Twin Pack,"for BR1 ENT, HD4, HD2, HD2 Mini, Max 700 & SIM Injector",$158.00
+ACW-622-US,PoE Activation Kit,"For BR1 ENT, HD4, HD2, HD2 Mini, MAX 700",$79.00
+ACW-630-US,Power Supply,"1 x 54V, 3.34A Power Supply for HD4 MBX, MBX Mini, SD Switch Rugged",$159.00
+ACW-632-US,Power Supply TST-Mini,110V AC power supply for the MAX Transit Mini,$19.00
+ACW-633-US,Power Supply 8-Port PoE+ Twin Pack,"2x 54V, 3.34A Power Supply Enables 8 PoE+ outputs for MAX HD4 MBX/SD Switch Rugged",$319.00
+ACW-634,10ft DC Power Cable,for MAX Transit Mini or BR1 Classic (HW3),$19.00
+ACW-643,Vehicle Cigarette to Molex Power Cable,"for MAX BR1 Pro (CAT 6 & 5G), MAX Transit (MINI, CORE, PROE, PRO) , UBR LTE",$29.00
+ACW-650,ANT-MB Thread,For MAX HD1 Dome / MAX HD2 Dome,$99.00
+ACW-651,"1"" 14TPI female to ANT-MB thread","For MAX HD1 Dome, MAX HD2 Dome, Dome Pro Duo, Mobility 02, Mobility 20G, Mobility 22G, Mobility 40G, Mobility 42G",$99.00
+ACW-652,"1"" 14TPI male adapter","MAX HD1/HD2 Dome, Dome Pro Duo, Mobility 02/20G/22G/40G, Maritime 20G (except ANT-MR-20G-N-W-6), Maritime 40G (Deck Mount Set included in the Antenna Package)",$99.00
+ACW-653,"1 1/4"" 11TPI male adapter","For Mobility Antennas and HD Dome. Compatible with: MAX HD1 Dome, MAX HD2 Dome, Dome Pro Duo, Mobility 02/20G/22G/40G/42G",$99.00
+ACW-653A,"1 1/4"" 11TPI male adapter",For MAX Antenna,$99.00
+ACW-658,3M Adhesive Antenna Mounting Gasket,For Mobility 20G / Mobility 22G / Mobility 40G,$9.00
+ACW-661,3M Adhesive Antenna Mounting Gasket,For Mobility 42G,$9.00
+ACW-663-US,12V3A 4-Pin Power Supply,For MAX BR2 5G,$19.00
+ACW-668,Magnetic Mount,For Mobility 82G,$169.00
+ACW-669-US,54V1.2A 4-Pin Power Supply (For US),Compatible with Transit Pro E for PoE+ (802.3at) output (Cable Length: 5ft. / 1.5m),
+ACW-721,Ear Mount Kit,Standard Mount Ears for Balance 20/30/50 & MAX 700/HD1/HD2,$19.00
+ACW-722,1U Rack Ear Mount,For Balance 20/30/50 & MAX 700/HD2,$29.00
+ACW-731,Ear Mounts,For Balance 210/310 & MAX HD4,$19.00
+ACW-741,Mounting Ears,"For SD PMU, includes screws",$99.00
+ACW-749,Class 1 Division 2 Mounting Kit,For BR1 Mini (HW2),$79.00
+ACW-754,SIM Cover ,For HD2 MBX / HD4 MBX,$9.00
+ACW-758,1U Rack Ear Mount,Compatible with Balance Two ,$39.00
+ACW-782,Rack Mount,For Balance 310 5G / Balance 310 Fiber,$59.00
+ACW-783,Mounting Kit for AP One AX Lite,"Ceiling Mount Base (9/16” T-Rail and 15/16” T-Rail), Mounting Screw Set",$9.00
+ACW-791,Peplink 4-pin to USB-C power cable,Allows compatible routers to be charged with two concurrent power sources,$19.00
+ACW-801,3dBi Cellular Antenna,"Indoor, 3G, Magnetic, SMA",$19.00
+ACW-808,3dBi Omni Antenna,"Indoor, Cellular, Magnetic, SMA-M",$49.00
+ACW-813,Indoor Cellular Antenna,Indoor Cellular Antenna,$9.00
+ACW-816,QMA-to-SMA adapters,QMA-Male to SMA-Female adapters (Pack of 4),$69.00
+ACW-825,2.4GHz & 5GHz Outdoor Wi-Fi Antenna Kit,For AP Pro AX and APO Pro Duo,$399.00
+ACW-835,Wi-Fi Antenna Kit,For APP-AGN3,$369.00
+ACW-882,L-Mount Kit,For Mobility 42G and Antenna MAX,$59.00
+ACW-887,Air Vent Port with Washer and Nut,For BR1 IP67,$9.00
+ACW-992,Rack Mount Kit,For Balance 310,$9.00
+ACW-DIN-M2MS,DIN Rail Mount,For BR1 Slim/ BR1 Pro/ BR1 M2M/ UBR,$15.00
+ACW-DIN-BR1-MINI,DIN Rail Mount ,For MAX BR1 MINI (HW3) and AP ONE Rugged,$29.00
+ACW-DIN-PSW8,Ear Mounts/DIN Rail Mount kit,For SD Switch 8-Port Rugged,$39.00
+ACW-DIN-TST,MAX Transit DIN Rail Mount,"DIN Rail mount kit that fits the MAX Transit, UBR Rugged, UBR Go",$19.00
+ACW-DOM-SPT,Ethernet Splitter for MAX HD Dome,For MAX HD Dome,$399.00
+BR2-MICRO-ACW-KIT,BR2 Micro Accessory Kit,"ACW-414 x 4 (3m MMCX to SMA-F Magnetic Cellular Antenna Base), ACW-415 x 1 (5m MMCX Magnetic GPS Antenna), ACW-237 x 4 (3.8 GHz Cellular Antenna)",$69.00
+ACW-SPLT-MAX,Splitter Max (For Peplink devices w/o PoE Input),"PoE Input: 802.3bt 48W (802.3af/at compatible) / DC Output: 12V, 48W",$99.00
+EXC-NQ-15,Extension Cable,N-type male to QMA female | 15ft / 4.5m ,$25.00
+EXC-NSM-15,Extension Cable,N-type male to SMA male | 15ft / 4.5m,$25.00
+EXC-NSM-30,Extension Cable,N-type male to SMA male | 30ft / 9m ,$35.00
+EXC-QQ-15,Extension Cable,QMA male to QMA female | 15ft / 4.5m ,$25.00
+EXC-RQ-15,Extension Cable,RP-SMA male to QMA female | 15ft / 4.5m ,$25.00
+EXC-RR-15,Extension Cable,RP-SMA male to RP-SMA female connector | 15ft / 4.5m ,$15.00
+EXC-RR-30,Extension Cable,RP-SMA male to RP-SMA female connector | 30 ft / 9m ,$25.00
+EXC-SQ-15,Extension Cable,SMA male to QMA female | 15ft / 4.5m ,$25.00
+EXC-SS-15,Extension Cable,SMA male to SMA female connector | 15ft / 4.5m ,$15.00
+EXC-SS-30,Extension Cable,SMA male to SMA female connector | 30ft / 9m,$25.00
+PDX-BAT-KIT,PDX Battery Kit,"1x Metal Clamp 1x Power Cable, 2x M3 Scr, 98Wh, 14.4V",$699.00
+SFE-PDX-KIT,SpeedFusion Engine Mounting Kit,Peplink SpeedFusion Engine Duo Accessory Kit for PDX,$149.00

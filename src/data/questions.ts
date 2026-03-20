@@ -93,21 +93,8 @@ export const QUESTIONS: Question[] = [
     ],
   },
   {
-    id: 'budgetRange',
-    step: 7,
-    title: 'What is your approximate budget?',
-    subtitle: 'This is the one-time hardware cost (excluding subscription services).',
-    multiSelect: false,
-    options: [
-      { value: 'under500', label: 'Under $500', description: 'Entry-level devices', icon: '💵' },
-      { value: '500to1500', label: '$500 – $1,500', description: 'Mid-range devices', icon: '💰' },
-      { value: '1500to5000', label: '$1,500 – $5,000', description: 'Business-grade devices', icon: '💳' },
-      { value: '5000plus', label: '$5,000+', description: 'Enterprise or carrier-grade', icon: '🏦' },
-    ],
-  },
-  {
     id: 'wifiNeeded',
-    step: 8,
+    step: 7,
     title: 'Do you need built-in Wi-Fi?',
     subtitle: 'Some Peplink models include an integrated access point; others are router-only.',
     multiSelect: false,

@@ -12,8 +12,7 @@ function hasAnswer(answers: WizardAnswers, step: number): boolean {
     4: 'cellularGen',
     5: 'userCount',
     6: 'speedFusion',
-    7: 'budgetRange',
-    8: 'wifiNeeded',
+    7: 'wifiNeeded',
   };
   const field = stepFieldMap[step];
   if (!field) return true;

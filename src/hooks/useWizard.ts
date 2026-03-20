@@ -2,7 +2,7 @@ import { useReducer } from 'react';
 import { RecommendationResult, WizardAction, WizardAnswers, WizardState } from '@/lib/types';
 import { computeRecommendations } from '@/lib/recommend';
 
-const TOTAL_STEPS = 8;
+const TOTAL_STEPS = 7;
 
 const initialState: WizardState = {
   currentStep: 1,
