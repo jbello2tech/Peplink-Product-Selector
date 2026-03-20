@@ -28,7 +28,7 @@ export default function Home() {
 
         <p className="text-sm leading-relaxed max-w-sm mx-auto"
           style={{ color: 'var(--color-text-dim)' }}>
-          Answer 8 quick questions about your deployment and get a precise hardware recommendation.
+          Answer 7 quick questions about your deployment and get a precise hardware recommendation.
         </p>
       </div>
 
