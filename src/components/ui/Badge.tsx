@@ -1,10 +1,10 @@
 import { ProductTier } from '@/lib/types';
 
-const tierConfig: Record<ProductTier, { label: string; className: string }> = {
-  mobile_vehicle: { label: 'Mobile / Vehicle', className: 'bg-orange-100 text-orange-700' },
-  home_soho: { label: 'Home / SOHO', className: 'bg-green-100 text-green-700' },
-  medium_business: { label: 'Medium Business', className: 'bg-blue-100 text-blue-700' },
-  enterprise: { label: 'Enterprise', className: 'bg-purple-100 text-purple-700' },
+const tierConfig: Record<ProductTier, { label: string; color: string }> = {
+  mobile_vehicle:  { label: 'Mobile / Vehicle',  color: '#d97706' },
+  home_soho:       { label: 'Home / SOHO',        color: '#16a34a' },
+  medium_business: { label: 'Medium Business',    color: '#2563eb' },
+  enterprise:      { label: 'Enterprise',         color: '#7c3aed' },
 };
 
 interface BadgeProps {
@@ -12,9 +12,18 @@ interface BadgeProps {
 }
 
 export function Badge({ tier }: BadgeProps) {
-  const { label, className } = tierConfig[tier];
+  const { label, color } = tierConfig[tier];
   return (
-    <span className={`inline-block px-2.5 py-0.5 rounded-full text-xs font-semibold ${className}`}>
+    <span
+      className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded text-xs font-bold tracking-wider uppercase"
+      style={{
+        fontFamily: 'var(--font-mono)',
+        color,
+        background: `${color}22`,
+        border: `1px solid ${color}44`,
+      }}
+    >
+      <span className="w-1 h-1 rounded-full flex-shrink-0" style={{ background: color }} />
       {label}
     </span>
   );

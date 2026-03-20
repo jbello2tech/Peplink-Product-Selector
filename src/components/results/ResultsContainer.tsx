@@ -16,38 +16,69 @@ export function ResultsContainer() {
 
   if (recommendations.length === 0) {
     return (
-      <div className="text-center py-16">
-        <p className="text-gray-500 mb-4">No recommendations found. Try adjusting your requirements.</p>
-        <button
-          onClick={handleStartOver}
-          className="px-6 py-3 bg-blue-600 text-white rounded-xl font-semibold hover:bg-blue-700 transition-all"
-        >
-          Start Over
+      <div className="text-center py-20 animate-fade-in">
+        <p className="text-sm mb-6" style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text-dim)' }}>
+          No matching products found for your requirements.
+        </p>
+        <button onClick={handleStartOver} className="px-6 py-3 rounded-lg text-sm font-bold"
+          style={{
+            fontFamily: 'var(--font-mono)',
+            background: 'var(--color-accent)',
+            color: '#fff',
+          }}>
+          ← Start Over
         </button>
       </div>
     );
   }
 
   return (
-    <div className="w-full max-w-4xl mx-auto">
-      <div className="text-center mb-8">
-        <h1 className="text-2xl font-bold text-gray-900 mb-2">Your Recommended Products</h1>
-        <p className="text-gray-500 text-sm">
-          Based on your answers, here are the best Peplink options for your deployment.
+    <div className="w-full max-w-5xl mx-auto">
+      {/* Header */}
+      <div className="text-center mb-10 animate-fade-in">
+        <div className="inline-flex items-center gap-2 px-3 py-1 mb-4 rounded-full border text-xs font-mono tracking-widest uppercase"
+          style={{
+            borderColor: 'var(--color-border-hi)',
+            color: 'var(--color-accent)',
+            background: 'var(--color-accent-dim)',
+          }}>
+          <span className="w-1.5 h-1.5 rounded-full" style={{ background: 'var(--color-accent)' }} />
+          {recommendations.length} Product{recommendations.length > 1 ? 's' : ''} Matched
+        </div>
+        <h1 className="text-3xl font-bold mb-2"
+          style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text)' }}>
+          Your Recommendations
+        </h1>
+        <p className="text-sm" style={{ color: 'var(--color-text-dim)' }}>
+          Ranked by fit score based on your deployment requirements.
         </p>
       </div>
 
-      <div className={`grid gap-6 ${recommendations.length > 1 ? 'md:grid-cols-2' : 'max-w-lg mx-auto'} ${recommendations.length === 3 ? 'lg:grid-cols-3' : ''}`}>
-        {recommendations.map((r) => (
-          <ProductCard key={r.product.id} result={r} />
+      {/* Cards grid */}
+      <div className={`grid gap-5
+        ${recommendations.length === 1 ? 'max-w-lg mx-auto' : ''}
+        ${recommendations.length === 2 ? 'md:grid-cols-2' : ''}
+        ${recommendations.length === 3 ? 'md:grid-cols-2 lg:grid-cols-3' : ''}
+      `}>
+        {recommendations.map((r, i) => (
+          <ProductCard key={r.product.id} result={r} index={i} />
         ))}
       </div>
 
-      <div className="text-center mt-10">
+      {/* Footer */}
+      <div className="text-center mt-12 pb-4">
+        <p className="text-xs mb-4" style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text-muted)' }}>
+          // Prices are approximate MSRP. Contact your Peplink partner for current pricing.
+        </p>
         <button
           onClick={handleStartOver}
-          className="px-6 py-3 border-2 border-gray-300 text-gray-600 rounded-xl font-semibold
-            hover:border-gray-500 hover:bg-gray-50 transition-all text-sm"
+          className="px-5 py-2.5 rounded-lg text-sm font-bold tracking-wide transition-all duration-150"
+          style={{
+            fontFamily: 'var(--font-mono)',
+            background: 'var(--color-surface-2)',
+            border: '1px solid var(--color-border-hi)',
+            color: 'var(--color-text-dim)',
+          }}
         >
           ← Start Over
         </button>

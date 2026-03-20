@@ -4,8 +4,8 @@ const specLabels: Partial<Record<keyof ProductSpec, string>> = {
   wanPorts: 'WAN Ports',
   maxThroughput: 'Max Throughput',
   cellular: 'Cellular',
-  cellular5G: '5G Cellular',
-  wifi: 'Built-in Wi-Fi',
+  cellular5G: '5G',
+  wifi: 'Wi-Fi',
   wifiStandard: 'Wi-Fi Standard',
   speedFusionCapable: 'SpeedFusion',
   lanPorts: 'LAN Ports',
@@ -14,10 +14,10 @@ const specLabels: Partial<Record<keyof ProductSpec, string>> = {
   operatingTemp: 'Operating Temp',
 };
 
-function formatValue(key: keyof ProductSpec, value: unknown): string {
-  if (typeof value === 'boolean') return value ? 'Yes' : 'No';
-  if (value === undefined || value === null) return '—';
-  return String(value);
+function formatValue(key: keyof ProductSpec, value: unknown): { text: string; highlight: boolean } {
+  if (typeof value === 'boolean') return { text: value ? 'YES' : 'NO', highlight: value };
+  if (value === undefined || value === null) return { text: '—', highlight: false };
+  return { text: String(value), highlight: false };
 }
 
 interface SpecTableProps {
@@ -30,17 +30,30 @@ export function SpecTable({ specs }: SpecTableProps) {
   );
 
   return (
-    <div className="rounded-lg border border-gray-100 overflow-hidden">
-      <table className="w-full text-sm">
-        <tbody>
-          {rows.map((key, i) => (
-            <tr key={key} className={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}>
-              <td className="px-3 py-2 text-gray-500 font-medium w-1/2">{specLabels[key]}</td>
-              <td className="px-3 py-2 text-gray-900">{formatValue(key, specs[key])}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+    <div className="rounded-lg overflow-hidden text-xs"
+      style={{ border: '1px solid var(--color-border)' }}>
+      {rows.map((key, i) => {
+        const { text, highlight } = formatValue(key, specs[key]);
+        return (
+          <div key={key}
+            className="flex items-center justify-between"
+            style={{
+              background: i % 2 === 0 ? 'var(--color-surface-2)' : 'var(--color-surface)',
+              padding: '6px 10px',
+              borderBottom: i < rows.length - 1 ? '1px solid var(--color-border)' : 'none',
+            }}>
+            <span style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text-dim)' }}>
+              {specLabels[key]}
+            </span>
+            <span className="font-bold" style={{
+              fontFamily: 'var(--font-mono)',
+              color: highlight ? 'var(--color-accent)' : 'var(--color-text)',
+            }}>
+              {text}
+            </span>
+          </div>
+        );
+      })}
     </div>
   );
 }

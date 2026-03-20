@@ -4,8 +4,15 @@ interface WhyThisProductProps {
 
 export function WhyThisProduct({ text }: WhyThisProductProps) {
   return (
-    <div className="bg-blue-50 border border-blue-100 rounded-lg px-4 py-3 text-sm text-blue-800">
-      <span className="font-semibold">Why this product: </span>
+    <div className="rounded-lg px-4 py-3 text-sm leading-relaxed relative"
+      style={{
+        background: 'var(--color-accent-dim)',
+        border: '1px solid rgba(240,90,40,0.2)',
+        color: 'var(--color-text)',
+      }}>
+      <span className="font-bold mr-1.5" style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-accent)' }}>
+        // WHY:
+      </span>
       {text}
     </div>
   );

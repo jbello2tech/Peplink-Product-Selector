@@ -4,21 +4,40 @@ interface ProgressBarProps {
 }
 
 export function ProgressBar({ currentStep, totalSteps }: ProgressBarProps) {
-  const pct = Math.round((currentStep / totalSteps) * 100);
-
   return (
     <div className="w-full">
-      <div className="flex justify-between items-center mb-2">
-        <span className="text-xs text-gray-500 font-medium">
-          Step {currentStep} of {totalSteps}
+      <div className="flex items-center justify-between mb-3">
+        <span className="text-xs font-bold tracking-widest uppercase"
+          style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text-dim)' }}>
+          Step {currentStep} / {totalSteps}
         </span>
-        <span className="text-xs text-gray-400">{pct}%</span>
+        <span className="text-xs"
+          style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-accent)' }}>
+          {Math.round((currentStep / totalSteps) * 100)}%
+        </span>
       </div>
-      <div className="h-1.5 bg-gray-200 rounded-full overflow-hidden">
-        <div
-          className="h-full bg-blue-600 rounded-full transition-all duration-500 ease-out"
-          style={{ width: `${pct}%` }}
-        />
+
+      {/* Segmented bars */}
+      <div className="flex gap-1">
+        {Array.from({ length: totalSteps }).map((_, i) => {
+          const done    = i < currentStep;
+          const active  = i === currentStep - 1;
+          return (
+            <div
+              key={i}
+              className="h-1 flex-1 rounded-sm transition-all duration-300"
+              style={{
+                background: done
+                  ? 'var(--color-accent)'
+                  : active
+                  ? 'var(--color-accent-2)'
+                  : 'var(--color-border)',
+                opacity: active ? 1 : done ? 0.85 : 0.4,
+                animation: active ? 'segment-fill 0.25s ease both' : undefined,
+              }}
+            />
+          );
+        })}
       </div>
     </div>
   );
