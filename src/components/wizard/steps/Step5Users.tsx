@@ -6,7 +6,7 @@ import { UserCount } from '@/lib/types';
 import { OptionButton } from '@/components/ui/OptionButton';
 import { StepTemplate } from './StepTemplate';
 
-const q = QUESTIONS.find((q) => q.step === 5)!;
+const q = QUESTIONS.find((q) => q.id === 'userCount')!;
 
 export function Step5Users() {
   const { currentAnswer, setAnswer } = useWizardContext();

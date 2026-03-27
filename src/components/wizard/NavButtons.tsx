@@ -5,10 +5,11 @@ import { useWizardContext } from '@/context/WizardContext';
 import { WizardAnswers } from '@/lib/types';
 
 function hasAnswer(answers: WizardAnswers, step: number): boolean {
+  // Step 2 = wanTypes, Step 3 = numWANs (swapped from original order)
   const stepFieldMap: Record<number, keyof WizardAnswers> = {
     1: 'deploymentType',
-    2: 'numWANs',
-    3: 'wanTypes',
+    2: 'wanTypes',
+    3: 'numWANs',
     4: 'cellularGen',
     5: 'userCount',
     6: 'speedFusion',
@@ -65,7 +66,6 @@ export function NavButtons() {
           boxShadow: canAdvance ? '0 0 20px var(--color-accent-glow)' : 'none',
         }}
       >
-        {/* Shimmer */}
         {canAdvance && (
           <span className="absolute inset-0 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-500 bg-white/10 skew-x-12 pointer-events-none" />
         )}

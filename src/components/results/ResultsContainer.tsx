@@ -1,17 +1,36 @@
 'use client';
 
+import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { useWizardContext } from '@/context/WizardContext';
+import { RecommendationResult } from '@/lib/types';
 import { ProductCard } from './ProductCard';
+import { ComparisonTable } from './ComparisonTable';
 
-export function ResultsContainer() {
+interface ResultsContainerProps {
+  overrideRecommendations?: RecommendationResult[];
+}
+
+export function ResultsContainer({ overrideRecommendations }: ResultsContainerProps) {
   const router = useRouter();
   const { state, reset } = useWizardContext();
-  const { recommendations } = state;
+  const [copied, setCopied] = useState(false);
+
+  const recommendations = overrideRecommendations ?? state.recommendations;
 
   function handleStartOver() {
     reset();
     router.push('/');
+  }
+
+  function handleShare() {
+    const answers = state.answers;
+    const encoded = encodeURIComponent(JSON.stringify(answers));
+    const url = `${window.location.origin}/results?s=${encoded}`;
+    navigator.clipboard.writeText(url).then(() => {
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2500);
+    });
   }
 
   if (recommendations.length === 0) {
@@ -50,7 +69,7 @@ export function ResultsContainer() {
           Your Recommendations
         </h1>
         <p className="text-sm" style={{ color: 'var(--color-text-dim)' }}>
-          Ranked by fit score based on your deployment requirements.
+          Ranked by how well each product fits your requirements.
         </p>
       </div>
 
@@ -65,24 +84,79 @@ export function ResultsContainer() {
         ))}
       </div>
 
-      {/* Footer */}
-      <div className="text-center mt-12 pb-4">
-        <p className="text-xs mb-4" style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text-muted)' }}>
-          // Prices are approximate MSRP. Contact your Peplink partner for current pricing.
-        </p>
-        <button
-          onClick={handleStartOver}
-          className="px-5 py-2.5 rounded-lg text-sm font-bold tracking-wide transition-all duration-150"
+      {/* Comparison table */}
+      <ComparisonTable results={recommendations} />
+
+      {/* Contact a Partner CTA */}
+      <div
+        className="mt-10 rounded-xl px-6 py-6 flex flex-col sm:flex-row items-center gap-4 animate-fade-in"
+        style={{
+          background: 'var(--color-surface)',
+          border: '1px solid var(--color-border-hi)',
+        }}
+      >
+        <div className="flex-1 text-center sm:text-left">
+          <p className="text-sm font-bold mb-1" style={{ color: 'var(--color-text)' }}>
+            Ready to buy or need expert advice?
+          </p>
+          <p className="text-xs" style={{ color: 'var(--color-text-dim)' }}>
+            A certified Peplink partner can provide current pricing, demo units, and deployment support.
+          </p>
+        </div>
+        <a
+          href="https://www.crosstalksolutions.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex-shrink-0 px-5 py-2.5 rounded-lg text-sm font-bold tracking-wide transition-all duration-150 relative overflow-hidden group"
           style={{
             fontFamily: 'var(--font-mono)',
-            background: 'var(--color-surface-2)',
-            border: '1px solid var(--color-border-hi)',
-            color: 'var(--color-text-dim)',
+            background: 'var(--color-accent)',
+            color: '#fff',
+            boxShadow: '0 0 16px var(--color-accent-glow)',
+            whiteSpace: 'nowrap',
           }}
         >
-          ← Start Over
-        </button>
+          <span className="absolute inset-0 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-500 bg-white/10 skew-x-12 pointer-events-none" />
+          <span className="relative">Find a Peplink Partner →</span>
+        </a>
       </div>
+
+      {/* Footer actions */}
+      <div className="text-center mt-8 pb-4 flex flex-col sm:flex-row items-center justify-center gap-3">
+        <p className="text-xs hidden sm:block" style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text-muted)' }}>
+          // Prices are approximate MSRP. Contact your Peplink partner for current pricing.
+        </p>
+        <div className="flex gap-2">
+          <button
+            onClick={handleShare}
+            className="px-4 py-2 rounded-lg text-xs font-bold tracking-wide transition-all duration-150"
+            style={{
+              fontFamily: 'var(--font-mono)',
+              background: copied ? 'rgba(22,163,74,0.15)' : 'var(--color-surface-2)',
+              border: `1px solid ${copied ? 'rgba(22,163,74,0.5)' : 'var(--color-border-hi)'}`,
+              color: copied ? '#22c55e' : 'var(--color-text-dim)',
+            }}
+          >
+            {copied ? '✓ Link Copied!' : '⎘ Share Results'}
+          </button>
+          <button
+            onClick={handleStartOver}
+            className="px-4 py-2 rounded-lg text-xs font-bold tracking-wide transition-all duration-150"
+            style={{
+              fontFamily: 'var(--font-mono)',
+              background: 'var(--color-surface-2)',
+              border: '1px solid var(--color-border-hi)',
+              color: 'var(--color-text-dim)',
+            }}
+          >
+            ← Start Over
+          </button>
+        </div>
+      </div>
+      <p className="text-xs text-center sm:hidden mt-2 pb-4"
+        style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text-muted)' }}>
+        // Prices are approximate MSRP. Contact your Peplink partner for current pricing.
+      </p>
     </div>
   );
 }

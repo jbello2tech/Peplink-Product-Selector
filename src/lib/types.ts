@@ -48,6 +48,7 @@ export interface RecommendationResult {
   matchScore: number;
   whyThisProduct: string;
   isPrimary: boolean;
+  fitLabel: string;
 }
 
 export interface WizardState {

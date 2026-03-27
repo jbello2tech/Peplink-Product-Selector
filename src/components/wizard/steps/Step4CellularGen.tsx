@@ -6,7 +6,7 @@ import { CellularGen } from '@/lib/types';
 import { OptionButton } from '@/components/ui/OptionButton';
 import { StepTemplate } from './StepTemplate';
 
-const q = QUESTIONS.find((q) => q.step === 4)!;
+const q = QUESTIONS.find((q) => q.id === 'cellularGen')!;
 
 export function Step4CellularGen() {
   const { currentAnswer, setAnswer } = useWizardContext();

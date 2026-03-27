@@ -22,6 +22,16 @@ function applyHardFilters(products: Product[], answers: WizardAnswers): Product[
   });
 }
 
+// Resolve "not_sure" SpeedFusion based on context:
+// Multiple connections → recommend it; single connection → not needed
+function resolveSpeedFusion(answers: WizardAnswers): 'yes' | 'no' {
+  if (answers.speedFusion === 'yes') return 'yes';
+  if (answers.speedFusion === 'no') return 'no';
+  // not_sure: recommend if they have multiple connections
+  const multiWAN = answers.numWANs === '2' || answers.numWANs === '3plus';
+  return multiWAN ? 'yes' : 'no';
+}
+
 interface ScoredProduct {
   product: Product;
   score: number;
@@ -31,6 +41,7 @@ interface ScoredProduct {
 function scoreProduct(product: Product, answers: WizardAnswers): ScoredProduct {
   let score = 0;
   const matchedReasons: string[] = [];
+  const effectiveSpeedFusion = resolveSpeedFusion(answers);
 
   // WAN port count (weight: 20)
   if (answers.numWANs) {
@@ -40,7 +51,7 @@ function scoreProduct(product: Product, answers: WizardAnswers): ScoredProduct {
       (answers.numWANs === '3plus' && product.specs.wanPorts >= 3);
     if (wanMatch) {
       score += 20;
-      const wanLabel = answers.numWANs === '1' ? '1 WAN' : answers.numWANs === '2' ? '2 WANs' : '3+ WANs';
+      const wanLabel = answers.numWANs === '1' ? '1 connection' : answers.numWANs === '2' ? '2 connections' : '3+ connections';
       matchedReasons.push(`supports ${wanLabel}`);
     }
   }
@@ -65,9 +76,9 @@ function scoreProduct(product: Product, answers: WizardAnswers): ScoredProduct {
   }
 
   // SpeedFusion needed (weight: 10)
-  if (answers.speedFusion === 'yes' && product.specs.speedFusionCapable) {
+  if (effectiveSpeedFusion === 'yes' && product.specs.speedFusionCapable) {
     score += 10;
-    matchedReasons.push('is SpeedFusion-capable for WAN bonding');
+    matchedReasons.push('is SpeedFusion-capable for connection bonding');
   }
 
   // Wi-Fi needed (weight: 10)
@@ -103,6 +114,12 @@ function buildWhyText(product: Product, reasons: string[], answers: WizardAnswer
   return `${prefix}${rest}, and ${last}.`;
 }
 
+function getFitLabel(index: number, score: number): string {
+  if (index === 0) return 'Best Match';
+  if (index === 1) return score >= 40 ? 'Strong Match' : 'Good Alternative';
+  return 'Also Consider';
+}
+
 export function computeRecommendations(answers: WizardAnswers): RecommendationResult[] {
   const filtered = applyHardFilters(PRODUCTS, answers);
 
@@ -129,5 +146,6 @@ function scoredResults(products: Product[], answers: WizardAnswers): Recommendat
     matchScore: s.score,
     whyThisProduct: buildWhyText(s.product, s.matchedReasons, answers),
     isPrimary: i === 0,
+    fitLabel: getFitLabel(i, s.score),
   }));
 }

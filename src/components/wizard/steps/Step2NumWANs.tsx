@@ -4,16 +4,25 @@ import { useWizardContext } from '@/context/WizardContext';
 import { QUESTIONS } from '@/data/questions';
 import { NumWANs } from '@/lib/types';
 import { OptionButton } from '@/components/ui/OptionButton';
+import { InfoTooltip } from '@/components/ui/InfoTooltip';
 import { StepTemplate } from './StepTemplate';
 
-const q = QUESTIONS.find((q) => q.step === 2)!;
+const q = QUESTIONS.find((q) => q.id === 'numWANs')!;
 
 export function Step2NumWANs() {
   const { currentAnswer, setAnswer } = useWizardContext();
   const selected = currentAnswer('numWANs') as NumWANs | undefined;
 
   return (
-    <StepTemplate title={q.title} subtitle={q.subtitle}>
+    <StepTemplate
+      title={q.title}
+      subtitle={
+        <>
+          {q.subtitle}
+          <InfoTooltip text="Each 'connection' is a separate path to the internet — for example, a fiber line plus a cellular SIM card counts as two connections." />
+        </>
+      }
+    >
       {q.options.map((opt) => (
         <OptionButton
           key={opt.value}
