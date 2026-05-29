@@ -5,7 +5,6 @@ import { useWizardContext } from '@/context/WizardContext';
 import { WizardAnswers } from '@/lib/types';
 
 function hasAnswer(answers: WizardAnswers, step: number): boolean {
-  // Step 2 = wanTypes, Step 3 = numWANs (swapped from original order)
   const stepFieldMap: Record<number, keyof WizardAnswers> = {
     1: 'deploymentType',
     2: 'wanTypes',
@@ -39,17 +38,11 @@ export function NavButtons() {
   }
 
   return (
-    <div className="flex gap-2 mt-7">
+    <div className="flex gap-3 mt-8">
       <button
         onClick={prevStep}
         disabled={currentStep === 1}
-        className="px-4 py-3 rounded-lg text-sm font-bold tracking-wide transition-all duration-150 disabled:opacity-25 disabled:cursor-not-allowed"
-        style={{
-          fontFamily: 'var(--font-mono)',
-          background: 'var(--color-surface-2)',
-          border: '1px solid var(--color-border-hi)',
-          color: 'var(--color-text-dim)',
-        }}
+        className="kjj-btn kjj-btn--ghost"
       >
         ← Back
       </button>
@@ -57,21 +50,9 @@ export function NavButtons() {
       <button
         onClick={handleNext}
         disabled={!canAdvance}
-        className="flex-1 py-3 px-4 rounded-lg text-sm font-bold tracking-wide transition-all duration-150 disabled:opacity-30 disabled:cursor-not-allowed relative overflow-hidden group"
-        style={{
-          fontFamily: 'var(--font-mono)',
-          background: canAdvance ? 'var(--color-accent)' : 'var(--color-surface-2)',
-          border: `1px solid ${canAdvance ? 'var(--color-accent)' : 'var(--color-border)'}`,
-          color: canAdvance ? '#fff' : 'var(--color-text-muted)',
-          boxShadow: canAdvance ? '0 0 20px var(--color-accent-glow)' : 'none',
-        }}
+        className="kjj-btn kjj-btn--primary flex-1"
       >
-        {canAdvance && (
-          <span className="absolute inset-0 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-500 bg-white/10 skew-x-12 pointer-events-none" />
-        )}
-        <span className="relative">
-          {isLastStep ? 'Get Recommendations →' : `Continue  ${currentStep}/${totalSteps} →`}
-        </span>
+        {isLastStep ? 'Get Recommendations' : `Continue · ${currentStep}/${totalSteps}`}
       </button>
     </div>
   );

@@ -1,23 +1,17 @@
 import type { Metadata } from "next";
-import { Space_Mono, DM_Sans } from "next/font/google";
+import { Josefin_Sans } from "next/font/google";
 import "./globals.css";
 import { WizardProvider } from "@/context/WizardContext";
 
-const spaceMono = Space_Mono({
-  weight: ["400", "700"],
+const josefin = Josefin_Sans({
+  weight: ["100", "200", "300", "400", "600"],
   subsets: ["latin"],
-  variable: "--font-space-mono",
-  display: "swap",
-});
-
-const dmSans = DM_Sans({
-  subsets: ["latin"],
-  variable: "--font-dm-sans",
+  variable: "--font-josefin",
   display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "Peplink Product Selector",
+  title: "Peplink Product Selector — KJJ Tech",
   description: "Find the right Peplink router for your deployment in minutes.",
 };
 
@@ -25,8 +19,8 @@ export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en" className={`${spaceMono.variable} ${dmSans.variable} h-full`}>
-      <body className="min-h-full flex flex-col bg-bg">
+    <html lang="en" className={`${josefin.variable} h-full`}>
+      <body className="min-h-full flex flex-col">
         <WizardProvider>{children}</WizardProvider>
       </body>
     </html>

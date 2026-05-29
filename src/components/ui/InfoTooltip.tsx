@@ -19,11 +19,11 @@ export function InfoTooltip({ text }: InfoTooltipProps) {
         onBlur={() => setOpen(false)}
         className="w-4 h-4 rounded-full text-xs font-bold flex items-center justify-center flex-shrink-0 cursor-help"
         style={{
-          background: 'var(--color-surface-3)',
+          background: 'transparent',
           border: '1px solid var(--color-border-hi)',
           color: 'var(--color-text-dim)',
-          fontFamily: 'var(--font-mono)',
           lineHeight: 1,
+          fontWeight: 300,
         }}
         aria-label="More info"
       >
@@ -31,13 +31,13 @@ export function InfoTooltip({ text }: InfoTooltipProps) {
       </button>
       {open && (
         <span
-          className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-60 text-xs leading-relaxed rounded-lg px-3 py-2.5 z-50 pointer-events-none"
+          className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-60 text-xs leading-relaxed px-3 py-2.5 z-50 pointer-events-none"
           style={{
-            background: 'var(--color-surface-3)',
-            border: '1px solid var(--color-border-hi)',
-            color: 'var(--color-text)',
-            fontFamily: 'var(--font-sans)',
-            boxShadow: '0 8px 32px rgba(0,0,0,0.5)',
+            background: 'var(--color-text)',
+            color: '#fff',
+            borderRadius: '2px',
+            fontWeight: 300,
+            boxShadow: '0 8px 24px rgba(0,0,0,0.12)',
           }}
         >
           {text}
@@ -46,7 +46,7 @@ export function InfoTooltip({ text }: InfoTooltipProps) {
             style={{
               borderLeft: '5px solid transparent',
               borderRight: '5px solid transparent',
-              borderTop: '5px solid var(--color-border-hi)',
+              borderTop: '5px solid var(--color-text)',
             }}
           />
         </span>

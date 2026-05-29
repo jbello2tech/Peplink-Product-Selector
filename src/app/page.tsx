@@ -1,47 +1,35 @@
+import Image from "next/image";
 import { WizardShell } from "@/components/wizard/WizardShell";
 
 export default function Home() {
   return (
-    <main className="relative flex-1 flex flex-col items-center justify-center px-4 py-12 dot-grid noise overflow-hidden">
-
-      {/* Ambient glow */}
-      <div className="pointer-events-none absolute top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[400px] rounded-full opacity-[0.07] blur-[100px]"
-        style={{ background: 'var(--color-accent)' }} />
+    <main className="relative flex-1 flex flex-col px-6">
+      {/* KJJ nav header */}
+      <header className="flex items-center justify-between max-w-5xl w-full mx-auto py-5 border-b" style={{ borderColor: "var(--color-border)" }}>
+        <a href="https://kjjtech.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3">
+          <Image src="/kjj-logo.jpg" alt="KJJ Tech" width={160} height={160} className="rounded-sm" />
+          <span className="kjj-eyebrow" style={{ letterSpacing: "0.18em" }}>KJJ Tech</span>
+        </a>
+        <span className="kjj-eyebrow hidden sm:inline">Peplink Product Selector</span>
+      </header>
 
       {/* Hero */}
-      <div className="relative text-center mb-10 max-w-lg animate-fade-in">
-        <div className="inline-flex items-center gap-2 px-3 py-1 mb-5 rounded-full border text-xs font-mono tracking-widest uppercase"
-          style={{
-            borderColor: 'var(--color-border-hi)',
-            color: 'var(--color-accent)',
-            background: 'var(--color-accent-dim)',
-          }}>
-          <span className="w-1.5 h-1.5 rounded-full animate-pulse" style={{ background: 'var(--color-accent)' }} />
-          Network Hardware Advisor
-        </div>
+      <section className="flex-1 flex flex-col items-center justify-center text-center max-w-3xl mx-auto w-full py-16 sm:py-24 animate-fade-in">
+        <span className="kjj-eyebrow mb-5">Network Hardware Advisor</span>
 
-        <h1 className="text-4xl sm:text-5xl font-bold tracking-tight leading-tight mb-4"
-          style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text)' }}>
-          Find Your<br />
-          <span style={{ color: 'var(--color-accent)' }}>Peplink Router</span>
+        <h1 className="kjj-heading text-4xl sm:text-6xl mb-6">
+          Your network,<br />built to last.
         </h1>
 
-        <p className="text-sm leading-relaxed max-w-sm mx-auto"
-          style={{ color: 'var(--color-text-dim)' }}>
-          Answer 7 quick questions about your deployment and get a precise hardware recommendation.
+        <p className="text-base sm:text-lg max-w-xl mx-auto mb-10" style={{ color: "var(--color-text-dim)", fontWeight: 300 }}>
+          Answer 7 quick questions about your deployment and we&apos;ll recommend the right Peplink router for you.
         </p>
-      </div>
 
-      {/* Wizard card */}
-      <div className="relative w-full max-w-lg animate-slide-up" style={{ animationDelay: '0.1s' }}>
-        <WizardShell />
-      </div>
-
-      {/* Footer */}
-      <p className="relative mt-8 text-xs text-center max-w-sm"
-        style={{ color: 'var(--color-text-muted)', fontFamily: 'var(--font-mono)' }}>
-        Prices are approximate MSRP. Contact your Peplink partner for current pricing.
-      </p>
+        {/* Wizard card */}
+        <div className="w-full max-w-xl animate-slide-up" style={{ animationDelay: "0.1s" }}>
+          <WizardShell />
+        </div>
+      </section>
     </main>
   );
 }

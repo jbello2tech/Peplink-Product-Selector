@@ -1,5 +1,6 @@
 'use client';
 
+import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 import { useWizardContext } from '@/context/WizardContext';
 import { RecommendationResult } from '@/lib/types';
@@ -24,15 +25,10 @@ export function ResultsContainer({ overrideRecommendations }: ResultsContainerPr
   if (recommendations.length === 0) {
     return (
       <div className="text-center py-20 animate-fade-in">
-        <p className="text-sm mb-6" style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text-dim)' }}>
+        <p className="text-sm mb-6" style={{ color: 'var(--color-text-dim)', fontWeight: 300 }}>
           No matching products found for your requirements.
         </p>
-        <button onClick={handleStartOver} className="px-6 py-3 rounded-lg text-sm font-bold"
-          style={{
-            fontFamily: 'var(--font-mono)',
-            background: 'var(--color-accent)',
-            color: '#fff',
-          }}>
+        <button onClick={handleStartOver} className="kjj-btn kjj-btn--primary">
           ← Start Over
         </button>
       </div>
@@ -40,33 +36,50 @@ export function ResultsContainer({ overrideRecommendations }: ResultsContainerPr
   }
 
   return (
-    <div className="w-full max-w-5xl mx-auto">
-      {/* Header */}
-      <div className="text-center mb-10 animate-fade-in">
-        <div className="inline-flex items-center gap-2 px-3 py-1 mb-4 rounded-full border text-xs font-mono tracking-widest uppercase"
-          style={{
-            borderColor: 'var(--color-border-hi)',
-            color: 'var(--color-accent)',
-            background: 'var(--color-accent-dim)',
-          }}>
-          <span className="w-1.5 h-1.5 rounded-full" style={{ background: 'var(--color-accent)' }} />
+    <div className="w-full max-w-5xl mx-auto px-6">
+      {/* KJJ header bar */}
+      <header
+        className="flex items-center justify-between py-5 mb-12 border-b"
+        style={{ borderColor: 'var(--color-border)' }}
+      >
+        <a
+          href="https://kjjtech.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-3"
+        >
+          <Image src="/kjj-logo.jpg" alt="KJJ Tech" width={160} height={160} className="rounded-sm" />
+          <span className="kjj-eyebrow" style={{ letterSpacing: '0.18em' }}>KJJ Tech</span>
+        </a>
+        <button onClick={handleStartOver} className="kjj-btn kjj-btn--ghost">
+          ← Start Over
+        </button>
+      </header>
+
+      {/* Title */}
+      <div className="text-center mb-12 animate-fade-in">
+        <span className="kjj-eyebrow block mb-4">
           {recommendations.length} Product{recommendations.length > 1 ? 's' : ''} Matched
-        </div>
-        <h1 className="text-3xl font-bold mb-2"
-          style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text)' }}>
+        </span>
+        <h1 className="kjj-heading text-3xl sm:text-5xl mb-4">
           Your Recommendations
         </h1>
-        <p className="text-sm" style={{ color: 'var(--color-text-dim)' }}>
+        <p
+          className="text-sm sm:text-base max-w-lg mx-auto"
+          style={{ color: 'var(--color-text-dim)', fontWeight: 300 }}
+        >
           Ranked by how well each product fits your requirements.
         </p>
       </div>
 
       {/* Cards grid */}
-      <div className={`grid gap-5
-        ${recommendations.length === 1 ? 'max-w-lg mx-auto' : ''}
-        ${recommendations.length === 2 ? 'md:grid-cols-2' : ''}
-        ${recommendations.length === 3 ? 'md:grid-cols-2 lg:grid-cols-3' : ''}
-      `}>
+      <div
+        className={`grid gap-6
+          ${recommendations.length === 1 ? 'max-w-xl mx-auto' : ''}
+          ${recommendations.length === 2 ? 'md:grid-cols-2' : ''}
+          ${recommendations.length === 3 ? 'md:grid-cols-2 lg:grid-cols-3' : ''}
+        `}
+      >
         {recommendations.map((r, i) => (
           <ProductCard key={r.product.id} result={r} index={i} />
         ))}
@@ -75,28 +88,21 @@ export function ResultsContainer({ overrideRecommendations }: ResultsContainerPr
       {/* Comparison table */}
       <ComparisonTable results={recommendations} />
 
-      {/* Footer actions */}
-      <div className="text-center mt-8 pb-4 flex flex-col sm:flex-row items-center justify-center gap-3">
-        <p className="text-xs hidden sm:block" style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text-muted)' }}>
-          // Prices are approximate MSRP. Contact your Peplink partner for current pricing.
-        </p>
-        <button
-          onClick={handleStartOver}
-          className="px-4 py-2 rounded-lg text-xs font-bold tracking-wide transition-all duration-150"
-          style={{
-            fontFamily: 'var(--font-mono)',
-            background: 'var(--color-surface-2)',
-            border: '1px solid var(--color-border-hi)',
-            color: 'var(--color-text-dim)',
-          }}
+      {/* Footer */}
+      <footer
+        className="mt-16 pt-8 pb-10 border-t flex justify-center"
+        style={{ borderColor: 'var(--color-border)' }}
+      >
+        <a
+          href="https://kjjtech.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="kjj-eyebrow"
+          style={{ color: 'var(--color-text)' }}
         >
-          ← Start Over
-        </button>
-      </div>
-      <p className="text-xs text-center sm:hidden mt-2 pb-4"
-        style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text-muted)' }}>
-        // Prices are approximate MSRP. Contact your Peplink partner for current pricing.
-      </p>
+          KJJ Tech · Your network, built to last →
+        </a>
+      </footer>
     </div>
   );
 }

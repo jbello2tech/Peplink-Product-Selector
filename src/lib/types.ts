@@ -36,6 +36,7 @@ export interface Product {
   name: string;
   tier: ProductTier;
   priceUSD: number;
+  goldPriceUSD?: number;
   tagline: string;
   specs: ProductSpec;
   keyFeatures: string[];

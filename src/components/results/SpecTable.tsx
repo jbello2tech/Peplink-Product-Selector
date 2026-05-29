@@ -15,7 +15,7 @@ const specLabels: Partial<Record<keyof ProductSpec, string>> = {
 };
 
 function formatValue(key: keyof ProductSpec, value: unknown): { text: string; highlight: boolean } {
-  if (typeof value === 'boolean') return { text: value ? 'YES' : 'NO', highlight: value };
+  if (typeof value === 'boolean') return { text: value ? 'Yes' : 'No', highlight: value };
   if (value === undefined || value === null) return { text: '—', highlight: false };
   return { text: String(value), highlight: false };
 }
@@ -30,25 +30,39 @@ export function SpecTable({ specs }: SpecTableProps) {
   );
 
   return (
-    <div className="rounded-lg overflow-hidden text-xs"
-      style={{ border: '1px solid var(--color-border)' }}>
+    <div
+      className="text-xs"
+      style={{ border: '1px solid var(--color-border)', borderRadius: '2px', overflow: 'hidden' }}
+    >
       {rows.map((key, i) => {
         const { text, highlight } = formatValue(key, specs[key]);
         return (
-          <div key={key}
+          <div
+            key={key}
             className="flex items-center justify-between"
             style={{
               background: i % 2 === 0 ? 'var(--color-surface-2)' : 'var(--color-surface)',
-              padding: '6px 10px',
+              padding: '8px 12px',
               borderBottom: i < rows.length - 1 ? '1px solid var(--color-border)' : 'none',
-            }}>
-            <span style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text-dim)' }}>
+            }}
+          >
+            <span
+              style={{
+                color: 'var(--color-text-dim)',
+                fontWeight: 300,
+                letterSpacing: '0.08em',
+                textTransform: 'uppercase',
+                fontSize: '10px',
+              }}
+            >
               {specLabels[key]}
             </span>
-            <span className="font-bold" style={{
-              fontFamily: 'var(--font-mono)',
-              color: highlight ? 'var(--color-accent)' : 'var(--color-text)',
-            }}>
+            <span
+              style={{
+                color: highlight ? 'var(--color-accent)' : 'var(--color-text)',
+                fontWeight: highlight ? 600 : 400,
+              }}
+            >
               {text}
             </span>
           </div>

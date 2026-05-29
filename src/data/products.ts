@@ -9,6 +9,7 @@ export const PRODUCTS: Product[] = [
     name: 'MAX BR1 Mini LTE',
     tier: 'mobile_vehicle',
     priceUSD: 349,
+    goldPriceUSD: 279.20,
     tagline: 'Entry-level single LTE router for vehicles and small deployments',
     specs: {
       wanPorts: 1,
@@ -39,6 +40,7 @@ export const PRODUCTS: Product[] = [
     name: 'MAX BR1 Mini 5G',
     tier: 'mobile_vehicle',
     priceUSD: 549,
+    goldPriceUSD: 439.20,
     tagline: 'Compact 5G router for vehicles with Wi-Fi',
     specs: {
       wanPorts: 1,
@@ -69,6 +71,7 @@ export const PRODUCTS: Product[] = [
     name: 'MAX BR1 Pro 5G',
     tier: 'mobile_vehicle',
     priceUSD: 999,
+    goldPriceUSD: 799.20,
     tagline: 'Single-modem 5G mobile router for demanding deployments',
     specs: {
       wanPorts: 1,
@@ -99,6 +102,7 @@ export const PRODUCTS: Product[] = [
     name: 'MAX Transit Duo Pro',
     tier: 'mobile_vehicle',
     priceUSD: 1199,
+    goldPriceUSD: 959.20,
     tagline: 'Dual-modem LTE transit router for buses and fleets',
     specs: {
       wanPorts: 2,
@@ -129,6 +133,7 @@ export const PRODUCTS: Product[] = [
     name: 'MAX BR2 Pro 5G',
     tier: 'mobile_vehicle',
     priceUSD: 2899,
+    goldPriceUSD: 2319.20,
     tagline: 'Dual 5G modem router for mission-critical mobile operations',
     specs: {
       wanPorts: 2,
@@ -161,6 +166,7 @@ export const PRODUCTS: Product[] = [
     name: 'B One',
     tier: 'home_soho',
     priceUSD: 299,
+    goldPriceUSD: 239.20,
     tagline: 'Wi-Fi 6 SD-WAN router for homes and small offices',
     specs: {
       wanPorts: 1,
@@ -190,6 +196,7 @@ export const PRODUCTS: Product[] = [
     name: 'B One Plus',
     tier: 'home_soho',
     priceUSD: 399,
+    goldPriceUSD: 319.20,
     tagline: 'LTE + Wi-Fi 6 router for SOHO with cellular backup',
     specs: {
       wanPorts: 1,
@@ -219,6 +226,7 @@ export const PRODUCTS: Product[] = [
     name: 'B One 5G',
     tier: 'home_soho',
     priceUSD: 599,
+    goldPriceUSD: 479.20,
     tagline: '5G Wi-Fi 6 router for SOHO — fast, simple, reliable',
     specs: {
       wanPorts: 1,
@@ -250,6 +258,7 @@ export const PRODUCTS: Product[] = [
     name: 'Balance 310',
     tier: 'medium_business',
     priceUSD: 999,
+    goldPriceUSD: 799.20,
     tagline: 'SME-grade dual-WAN router with multi-Gigabit performance',
     specs: {
       wanPorts: 2,
@@ -278,6 +287,7 @@ export const PRODUCTS: Product[] = [
     name: 'Balance 310X',
     tier: 'medium_business',
     priceUSD: 2899,
+    goldPriceUSD: 2319.20,
     tagline: 'Modular SD-WAN router with built-in cellular for branch offices',
     specs: {
       wanPorts: 3,
@@ -306,6 +316,7 @@ export const PRODUCTS: Product[] = [
     name: 'Balance 580',
     tier: 'medium_business',
     priceUSD: 3999,
+    goldPriceUSD: 3199.20,
     tagline: 'Mid-market router with 5 WAN ports and high throughput',
     specs: {
       wanPorts: 5,
@@ -334,6 +345,7 @@ export const PRODUCTS: Product[] = [
     name: 'Balance 580X',
     tier: 'medium_business',
     priceUSD: 4999,
+    goldPriceUSD: 3999.20,
     tagline: 'Modular mid-market SD-WAN with expansion slot for cellular',
     specs: {
       wanPorts: 5,
@@ -364,6 +376,7 @@ export const PRODUCTS: Product[] = [
     name: 'Balance 1350',
     tier: 'enterprise',
     priceUSD: 7999,
+    goldPriceUSD: 6399.20,
     tagline: 'Enterprise router with 12 WAN ports for large organizations',
     specs: {
       wanPorts: 12,
@@ -392,6 +405,7 @@ export const PRODUCTS: Product[] = [
     name: 'Balance 1350 EC',
     tier: 'enterprise',
     priceUSD: 8499,
+    goldPriceUSD: 6799.20,
     tagline: 'Enterprise router with 8 GE + 8 SFP fiber ports',
     specs: {
       wanPorts: 16,
@@ -420,6 +434,7 @@ export const PRODUCTS: Product[] = [
     name: 'Balance 2500',
     tier: 'enterprise',
     priceUSD: 15999,
+    goldPriceUSD: 12799.20,
     tagline: 'Flagship enterprise SD-WAN with 12 GE WAN ports',
     specs: {
       wanPorts: 12,
